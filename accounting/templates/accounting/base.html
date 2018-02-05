@@ -16,7 +16,7 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- <meta name="viewport" content="width=device-width, initial-scale=1"> -->
     <meta name="description" content="">
     <meta name="keywords" content="">
     <meta name="author" content="">
@@ -92,8 +92,8 @@
 
   <div class="container py-4 fixed-top app-navbar">
   <nav class="navbar navbar-transparent navbar-padded navbar-expand-md">
-    <a class="navbar-brand mr-auto" href="https://econobilidade.com">
-      <strong style="background: #fff; padding: 12px; border-radius: 4px; color: #28669F;">go</strong>
+    <a class="navbar-brand mr-auto" href="https://rixty.com/home">
+      <strong style="background: #fff; padding: 12px; border-radius: 4px; color: #28669F;">Rixty</strong>
     </a>
     <button
       class="navbar-toggler"
@@ -109,10 +109,11 @@
         <li class="nav-item px-1 ">
           <a class="nav-link" href="#">#econobilidade</a>
           <td><select name="forma" onchange="location = this.value;">
-            <option value="">Selecione seu relatorio</option>
-           <option value="{% url 'GL' %}">Razao</option>
+            <option value="">Choose your report</option>
+           <!-- <option value="{% url 'GL' %}">Razao</option>
            <option value="{% url 'BS' %}">Balanço</option>
-           <option value="{% url 'IS' %}">DRE</option>
+           <option value="{% url 'IS' %}">DRE</option> -->
+           <option value="{% url 'statements' %}">Calculate Your Taxes</option>
           </select></td>
 
         </li>

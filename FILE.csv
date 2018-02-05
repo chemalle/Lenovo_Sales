@@ -1,0 +1,285 @@
+,Unnamed: 1,Type,Date,Num,Name,Memo,Split,Debit,Credit,Classification,BRAZIL,debit account,credit account,R$
+0,,Transfer,2017-12-31,,,Funds Transfer,Santander Investment Account,,3577000.0,Santander,1.1.01.002.0001,5.1.01.001.0003,1.1.01.002.0001,3577000.0
+1,,General Journal,2017-12-31,JE1712-1,,Dec'2017 cash flow,Telephone Expense,,142757.49,Santander,1.1.01.002.0001,5.1.01.001.0003,1.1.01.002.0001,142757.49
+2,,General Journal,2017-12-31,JE1712-2,,Payment received fromEPay Brazil,Accounts Receivable,125723.54,,Santander,1.1.01.002.0001,1.1.01.002.0001,5.1.01.001.0003,125723.54
+3,,General Journal,2017-12-31,JE1712-3,,Being payment to LevelUp-Publisher (88%),-SPLIT-,,11567.6,Santander,1.1.01.002.0001,5.1.01.001.0003,1.1.01.002.0001,11567.6
+4,,General Journal,2017-12-31,JE1712-4,,Net Payout to Rixty Inc for Dec'17,Rixty USA Offset Liability,,4723444.58,Santander,1.1.01.002.0001,5.1.01.001.0003,1.1.01.002.0001,4723444.58
+5,,General Journal,2017-12-31,JE1712-5,,Payment received from AR - Blackhawk Brazil,Accounts Receivable,2152291.04,,Santander,1.1.01.002.0001,1.1.01.002.0001,5.1.01.001.0003,2152291.04
+6,,Transfer,2017-12-31,,,Funds Transfer,Santander Investment Account,3870737.62,,Santander,1.1.01.002.0001,1.1.01.002.0001,5.1.01.001.0003,3870737.62
+7,,General Journal,2017-12-31,JE1712-6,,Payment received from AR-Cielo,Accounts Receivable,34683.19,,Santander,1.1.01.002.0001,1.1.01.002.0001,5.1.01.001.0003,34683.19
+8,,General Journal,2017-12-31,JE1712-7,,Payment received from AR-ElavonBR,Accounts Receivable,230528.65,,Santander,1.1.01.002.0001,1.1.01.002.0001,5.1.01.001.0003,230528.65
+9,,General Journal,2017-12-31,JE1712-8,,Payment received from AR - EPay Brazil,Accounts Receivable,198737.19,,Santander,1.1.01.002.0001,1.1.01.002.0001,5.1.01.001.0003,198737.19
+10,,General Journal,2017-12-31,JE1712-9,,Payment received from Incomm Brazil,Accounts Receivable,240707.45,,Santander,1.1.01.002.0001,1.1.01.002.0001,5.1.01.001.0003,240707.45
+11,,General Journal,2017-12-31,JE1712-10,MoIP,Payment received from AR-MOIP,Accounts Receivable,275550.46,,Santander,1.1.01.002.0001,1.1.01.002.0001,5.1.01.001.0003,275550.46
+12,,General Journal,2017-12-31,JE1712-11,,Payment received from AR-PagSeguro,Accounts Receivable,48800.0,,Santander,1.1.01.002.0001,1.1.01.002.0001,5.1.01.001.0003,48800.0
+13,,General Journal,2017-12-31,JE1712-12,,Payment received from AR-Qiwi,Accounts Receivable,1562.4,,Santander,1.1.01.002.0001,1.1.01.002.0001,5.1.01.001.0003,1562.4
+14,,General Journal,2017-12-31,JE1712-13,Bank Deposit Brazil,Payment received from AR-Bank Deposit Brazil,Accounts Receivable,330693.31,,Santander,1.1.01.002.0001,1.1.01.002.0001,5.1.01.001.0003,330693.31
+15,,General Journal,2017-12-31,JE1712-14,,Payment received from AR-RV Tecnologia,Accounts Receivable,48386.24,,Santander,1.1.01.002.0001,1.1.01.002.0001,5.1.01.001.0003,48386.24
+16,,General Journal,2017-12-31,JE1712-15,,Payment received from AR-Santander,Accounts Receivable,1104891.73,,Santander,1.1.01.002.0001,1.1.01.002.0001,5.1.01.001.0003,1104891.73
+17,,General Journal,2017-12-31,JE1712-16,,Payment received from AR-Tendencia,Accounts Receivable,286.0,,Santander,1.1.01.002.0001,1.1.01.002.0001,5.1.01.001.0003,286.0
+18,,General Journal,2017-12-31,JE1712-17,,Payment received from AR-Trel,Accounts Receivable,6037.5,,Santander,1.1.01.002.0001,1.1.01.002.0001,5.1.01.001.0003,6037.5
+19,,Transfer,2017-12-31,,,Funds Transfer,Santander,3577000.0,,Santander Investment Account,1.1.01.003.0002,1.1.01.003.0002,5.1.01.001.0003,3577000.0
+20,,Transfer,2017-12-31,,,Funds Transfer,Santander,,3870737.62,Santander Investment Account,1.1.01.003.0002,5.1.01.001.0003,1.1.01.003.0002,3870737.62
+21,,General Journal,2017-12-31,JE1712-18,,Being bank interest for Dec'2017,Interest Income,3495.9,,Santander Investment Account,1.1.01.003.0002,1.1.01.003.0002,5.1.01.001.0003,3495.9
+22,,Credit Memo,2017-12-31,5971,Rixty Brazil,,User Deposit,,5711.88,Accounts Receivable,1.1.02.001.0001,5.1.01.001.0003,1.1.02.001.0001,5711.88
+23,,Credit Memo,2017-12-31,5972,EPay Brazil,,-SPLIT-,,4972.5,Accounts Receivable,1.1.02.001.0001,5.1.01.001.0003,1.1.02.001.0001,4972.5
+24,,Credit Memo,2017-12-31,5973,MoIP,,-SPLIT-,,98.01,Accounts Receivable,1.1.02.001.0001,5.1.01.001.0003,1.1.02.001.0001,98.01
+25,,Credit Memo,2017-12-31,5974,Santander,,User Deposit,,3.0,Accounts Receivable,1.1.02.001.0001,5.1.01.001.0003,1.1.02.001.0001,3.0
+26,,Credit Memo,2017-12-31,5975,Blackhawk Brazil -Crossfire,,-SPLIT-,,499.77,Accounts Receivable,1.1.02.001.0001,5.1.01.001.0003,1.1.02.001.0001,499.77
+27,,Credit Memo,2017-12-31,5976,Blackhawk Brazil -Steam,,-SPLIT-,,48011.6,Accounts Receivable,1.1.02.001.0001,5.1.01.001.0003,1.1.02.001.0001,48011.6
+28,,Credit Memo,2017-12-31,5977,Rixty PIN Distributor BR,,User Deposit,,20.0,Accounts Receivable,1.1.02.001.0001,5.1.01.001.0003,1.1.02.001.0001,20.0
+29,,Credit Memo,2017-12-31,5978,Bank Deposit Brazil,,User Deposit,,10500.0,Accounts Receivable,1.1.02.001.0001,5.1.01.001.0003,1.1.02.001.0001,10500.0
+30,,Credit Memo,2017-12-31,5979,Blackhawk Brazil,,-SPLIT-,,2745.6,Accounts Receivable,1.1.02.001.0001,5.1.01.001.0003,1.1.02.001.0001,2745.6
+31,,Credit Memo,2017-12-31,5980,Santander,,User Deposit,,5174.49,Accounts Receivable,1.1.02.001.0001,5.1.01.001.0003,1.1.02.001.0001,5174.49
+32,,Credit Memo,2017-12-31,5981,ePay Brazil -Steam,,-SPLIT-,,26936.0,Accounts Receivable,1.1.02.001.0001,5.1.01.001.0003,1.1.02.001.0001,26936.0
+33,,General Journal,2017-12-31,5982,Rixty Customer,,-SPLIT-,363.5,,Accounts Receivable,1.1.02.001.0001,1.1.02.001.0001,5.1.01.001.0003,363.5
+34,,Invoice,2017-12-31,5983,Rixty Canada Customer,,-SPLIT-,112.57,,Accounts Receivable,1.1.02.001.0001,1.1.02.001.0001,5.1.01.001.0003,112.57
+35,,Invoice,2017-12-31,5984,Rixty Customer,,-SPLIT-,18008.93,,Accounts Receivable,1.1.02.001.0001,1.1.02.001.0001,5.1.01.001.0003,18008.93
+36,,Invoice,2017-12-31,5985,Rixty Brazil,,User Deposit,19385.46,,Accounts Receivable,1.1.02.001.0001,1.1.02.001.0001,5.1.01.001.0003,19385.46
+37,,Invoice,2017-12-31,5986,Tendencia,,-SPLIT-,492.8,,Accounts Receivable,1.1.02.001.0001,1.1.02.001.0001,5.1.01.001.0003,492.8
+38,,General Journal,2017-12-31,5987,EPay Brazil,,-SPLIT-,98902.69,,Accounts Receivable,1.1.02.001.0001,1.1.02.001.0001,5.1.01.001.0003,98902.69
+39,,Invoice,2017-12-31,5988,TREL,,-SPLIT-,3587.5,,Accounts Receivable,1.1.02.001.0001,1.1.02.001.0001,5.1.01.001.0003,3587.5
+40,,Invoice,2017-12-31,5989,MoIP,,-SPLIT-,330795.68,,Accounts Receivable,1.1.02.001.0001,1.1.02.001.0001,5.1.01.001.0003,330795.68
+41,,Invoice,2017-12-31,5990,PagSeguro,,-SPLIT-,42915.66,,Accounts Receivable,1.1.02.001.0001,1.1.02.001.0001,5.1.01.001.0003,42915.66
+42,,General Journal,2017-12-31,5991,Blackhawk Brazil,,-SPLIT-,62551.97,,Accounts Receivable,1.1.02.001.0001,1.1.02.001.0001,5.1.01.001.0003,62551.97
+43,,Invoice,2017-12-31,5992,QIWI Brazil,,-SPLIT-,264.0,,Accounts Receivable,1.1.02.001.0001,1.1.02.001.0001,5.1.01.001.0003,264.0
+44,,General Journal,2017-12-31,5994,InComm Brazil,,-SPLIT-,28830.19,,Accounts Receivable,1.1.02.001.0001,1.1.02.001.0001,5.1.01.001.0003,28830.19
+45,,Invoice,2017-12-31,5995,Santander,,-SPLIT-,1086374.8,,Accounts Receivable,1.1.02.001.0001,1.1.02.001.0001,5.1.01.001.0003,1086374.8
+46,,General Journal,2017-12-31,5996,Blackhawk Brazil,,-SPLIT-,8999.91,,Accounts Receivable,1.1.02.001.0001,1.1.02.001.0001,5.1.01.001.0003,8999.91
+47,,General Journal,2017-12-31,5997,Blackhawk Brazil,,-SPLIT-,3713916.13,,Accounts Receivable,1.1.02.001.0001,1.1.02.001.0001,5.1.01.001.0003,3713916.13
+48,,Invoice,2017-12-31,5998,EPay Brazil,,-SPLIT-,25.51,,Accounts Receivable,1.1.02.001.0001,1.1.02.001.0001,5.1.01.001.0003,25.51
+49,,Invoice,2017-12-31,5999,RV Tecnologia,,-SPLIT-,53622.25,,Accounts Receivable,1.1.02.001.0001,1.1.02.001.0001,5.1.01.001.0003,53622.25
+50,,Invoice,2017-12-31,6000,QIWI Brazil,,-SPLIT-,1391.2,,Accounts Receivable,1.1.02.001.0001,1.1.02.001.0001,5.1.01.001.0003,1391.2
+51,,Invoice,2017-12-31,6001,Rixty PIN Distributor BR,,User Deposit,108306.84,,Accounts Receivable,1.1.02.001.0001,1.1.02.001.0001,5.1.01.001.0003,108306.84
+52,,Invoice,2017-12-31,6002,Bank Deposit Brazil,,User Deposit,341193.31,,Accounts Receivable,1.1.02.001.0001,1.1.02.001.0001,5.1.01.001.0003,341193.31
+53,,Invoice,2017-12-31,6004,Cielo,,-SPLIT-,40595.7,,Accounts Receivable,1.1.02.001.0001,1.1.02.001.0001,5.1.01.001.0003,40595.7
+54,,Invoice,2017-12-31,6005,PayPal Brazil,,-SPLIT-,4965.99,,Accounts Receivable,1.1.02.001.0001,1.1.02.001.0001,5.1.01.001.0003,4965.99
+55,,General Journal,2017-12-31,6006,InComm Brazil,,-SPLIT-,308806.64,,Accounts Receivable,1.1.02.001.0001,1.1.02.001.0001,5.1.01.001.0003,308806.64
+56,,Invoice,2017-12-31,6007,ElavonBR,,-SPLIT-,203189.17,,Accounts Receivable,1.1.02.001.0001,1.1.02.001.0001,5.1.01.001.0003,203189.17
+57,,General Journal,2017-12-31,6008,EPay Brazil,,-SPLIT-,430612.64,,Accounts Receivable,1.1.02.001.0001,1.1.02.001.0001,5.1.01.001.0003,430612.64
+58,,General Journal,2017-12-31,JE1712-2,EPay Brazil,Payment received fromEPay Brazil,Santander,,125723.54,Accounts Receivable,1.1.02.001.0001,5.1.01.001.0003,1.1.02.001.0001,125723.54
+59,,General Journal,2017-12-31,JE1712-5,Blackhawk Brazil,Payment received from AR - Blackhawk Brazil,Santander,,2152291.04,Accounts Receivable,1.1.02.001.0001,5.1.01.001.0003,1.1.02.001.0001,2152291.04
+60,,General Journal,2017-12-31,JE1712-6,Cielo,Payment received from AR-Cielo,Santander,,34683.19,Accounts Receivable,1.1.02.001.0001,5.1.01.001.0003,1.1.02.001.0001,34683.19
+61,,General Journal,2017-12-31,JE1712-7,ElavonBR,Payment received from AR-ElavonBR,Santander,,230528.65,Accounts Receivable,1.1.02.001.0001,5.1.01.001.0003,1.1.02.001.0001,230528.65
+62,,General Journal,2017-12-31,JE1712-8,EPay Brazil,Payment received from AR - EPay Brazil,Santander,,198737.19,Accounts Receivable,1.1.02.001.0001,5.1.01.001.0003,1.1.02.001.0001,198737.19
+63,,General Journal,2017-12-31,JE1712-9,InComm Brazil,Payment received from Incomm Brazil,Santander,,240707.45,Accounts Receivable,1.1.02.001.0001,5.1.01.001.0003,1.1.02.001.0001,240707.45
+64,,General Journal,2017-12-31,JE1712-10,MoIP,Payment received from AR-MOIP,Santander,,275550.46,Accounts Receivable,1.1.02.001.0001,5.1.01.001.0003,1.1.02.001.0001,275550.46
+65,,General Journal,2017-12-31,JE1712-11,PagSeguro,Payment received from AR-PagSeguro,Santander,,48800.0,Accounts Receivable,1.1.02.001.0001,5.1.01.001.0003,1.1.02.001.0001,48800.0
+66,,General Journal,2017-12-31,JE1712-12,QIWI Brazil,Payment received from AR-Qiwi,Santander,,1562.4,Accounts Receivable,1.1.02.001.0001,5.1.01.001.0003,1.1.02.001.0001,1562.4
+67,,General Journal,2017-12-31,JE1712-13,Bank Deposit Brazil,Payment received from AR-Bank Deposit Brazil,Santander,,330693.31,Accounts Receivable,1.1.02.001.0001,5.1.01.001.0003,1.1.02.001.0001,330693.31
+68,,General Journal,2017-12-31,JE1712-14,RV Tecnologia,Payment received from AR-RV Tecnologia,Santander,,48386.24,Accounts Receivable,1.1.02.001.0001,5.1.01.001.0003,1.1.02.001.0001,48386.24
+69,,General Journal,2017-12-31,JE1712-15,Santander,Payment received from AR-Santander,Santander,,1104891.73,Accounts Receivable,1.1.02.001.0001,5.1.01.001.0003,1.1.02.001.0001,1104891.73
+70,,General Journal,2017-12-31,JE1712-16,Tendencia,Payment received from AR-Tendencia,Santander,,286.0,Accounts Receivable,1.1.02.001.0001,5.1.01.001.0003,1.1.02.001.0001,286.0
+71,,General Journal,2017-12-31,JE1712-17,TREL,Payment received from AR-Trel,Santander,,6037.5,Accounts Receivable,1.1.02.001.0001,5.1.01.001.0003,1.1.02.001.0001,6037.5
+72,,General Journal,2017-12-31,JE1712-29,Rixty Brazil,"Being wrongly posted Elavon, Epay Brazil, MOIP, Santander and Rixty Pin Distributor BR transacti...",User Deposit,,3140.77,Accounts Receivable,1.1.02.001.0001,5.1.01.001.0003,1.1.02.001.0001,3140.77
+73,,General Journal,2017-12-31,JE1712-30,MoIP,Being adjustment of missing MOIP transaction,Prepaid Commission,173.92,,Accounts Receivable,1.1.02.001.0001,1.1.02.001.0001,5.1.01.001.0003,173.92
+74,,General Journal,2017-12-31,JE1712-31,Rixty PIN Distributor BR,Being adjustment of missing Rixty PIN Distributor BR transaction,User Deposit,20.0,,Accounts Receivable,1.1.02.001.0001,1.1.02.001.0001,5.1.01.001.0003,20.0
+75,,General Journal,2017-12-31,JE1712-32,Santander,Being adjustment of missing Santander transaction,Prepaid Commission,2733.69,,Accounts Receivable,1.1.02.001.0001,1.1.02.001.0001,5.1.01.001.0003,2733.69
+76,,General Journal,2017-12-31,JE1712-33,ElavonBR,Being adjustment of missing Elavon transaction,Prepaid Commission,132.6,,Accounts Receivable,1.1.02.001.0001,1.1.02.001.0001,5.1.01.001.0003,132.6
+77,,General Journal,2017-12-31,JE1712-34,EPay Brazil,Being adjustment of missing Epay Brazil transaction,Prepaid Commission,28.15,,Accounts Receivable,1.1.02.001.0001,1.1.02.001.0001,5.1.01.001.0003,28.15
+78,,General Journal,2017-12-31,JE1712-38,Rixty Brazil,Being promotion fee for Dec 2017,Promotions,,10532.81,Accounts Receivable,1.1.02.001.0001,5.1.01.001.0003,1.1.02.001.0001,10532.81
+79,,General Journal,2017-12-31,JE1712-39,Rixty PIN Distributor BR,Adjustment for Crossfire - Dec'17,Revenue,,108306.84,Accounts Receivable,1.1.02.001.0001,5.1.01.001.0003,1.1.02.001.0001,108306.84
+80,,General Journal,2017-12-31,JE1712-19,,"Blackhawk cards sold in Dec'2017- MOL/RIXTY 31.99 BRL @ 3,027 - BRL0.47",Cost of Good Sold,,2239.98,Inventory,1.1.03.001.0001,5.1.01.001.0003,1.1.03.001.0001,2239.98
+81,,General Journal,2017-12-31,JE1712-20,, ePay Brazil cards sold in Dece'2017- CROSSFIRE 28.99 BRL @ 1 units - BRL1.38,Cost of Good Sold,,1.38,Inventory,1.1.03.001.0001,5.1.01.001.0003,1.1.03.001.0001,1.38
+82,,General Journal,2017-12-31,JE1712-21,,"Epay BRAZIL - STEAM cards sold in December'17 - 52.99 BRL @ 8,338 - BRL0.75",Cost of Good Sold,,6253.5,Inventory,1.1.03.001.0001,5.1.01.001.0003,1.1.03.001.0001,6253.5
+83,,General Journal,2017-12-31,JE1712-22,,"Blackhawk cards sold in December 2017- MOL/RIXTY 31.99 BRL @ 2,118 - BRL0.47",Cost of Good Sold,,995.46,Inventory,1.1.03.001.0001,5.1.01.001.0003,1.1.03.001.0001,995.46
+84,,General Journal,2017-12-31,JE1712-23,," Blackhawk cards sold in December 2017- STEAM 31.99 BRL @ 30,288 - BRL0.47",Cost of Good Sold,,14235.36,Inventory,1.1.03.001.0001,5.1.01.001.0003,1.1.03.001.0001,14235.36
+85,,General Journal,2017-12-31,JE1712-24,," Blackhawk cards sold in December 2017- STEAM 52.99 BRL @ 57,689 - BRL0.65",Cost of Good Sold,,37497.85,Inventory,1.1.03.001.0001,5.1.01.001.0003,1.1.03.001.0001,37497.85
+86,,General Journal,2017-12-31,JE1712-25,, Blackhawk cards sold in Decemebr 2017- CROSSFIRE 70.99 BRL @ 99 -BRL0.64,Cost of Good Sold,,63.36,Inventory,1.1.03.001.0001,5.1.01.001.0003,1.1.03.001.0001,63.36
+87,,General Journal,2017-12-31,JE1712-26,, Blackhawk cards sold in December 2017- CROSSFIRE 28.99 BRL @ 76 - BRL0.80,Cost of Good Sold,,60.8,Inventory,1.1.03.001.0001,5.1.01.001.0003,1.1.03.001.0001,60.8
+88,,General Journal,2017-12-31,JE1712-27,, INCOMM BRAZIL cards sold in December 2017- MOL/RIXTY 75.00 BRL @ 447 - BRL1.12,Cost of Good Sold,,500.64,Inventory,1.1.03.001.0001,5.1.01.001.0003,1.1.03.001.0001,500.64
+89,,General Journal,2017-12-31,JE1712-28,," INCOMM BRAZIL - STEAM cards sold in December 2017 - 52.99 BRL @ 6,404 - BRL0.47",Cost of Good Sold,,3009.88,Inventory,1.1.03.001.0001,5.1.01.001.0003,1.1.03.001.0001,3009.88
+90,,Credit,2017-12-31,5970,Dummy Offset,,Accounts Payable,33.5,,Prepaid Commission,1.1.04.001.0003,1.1.04.001.0003,5.1.01.001.0003,33.5
+91,,Credit Memo,2017-12-31,5972,EPay Brazil,,Accounts Receivable,,877.5,Prepaid Commission,1.1.04.001.0003,5.1.01.001.0003,1.1.04.001.0003,877.5
+92,,Credit Memo,2017-12-31,5973,MoIP,,Accounts Receivable,,1.99,Prepaid Commission,1.1.04.001.0003,5.1.01.001.0003,1.1.04.001.0003,1.99
+93,,Credit Memo,2017-12-31,5975,Blackhawk Brazil -Crossfire,,Accounts Receivable,,68.15,Prepaid Commission,1.1.04.001.0003,5.1.01.001.0003,1.1.04.001.0003,68.15
+94,,Credit Memo,2017-12-31,5976,Blackhawk Brazil -Steam,,Accounts Receivable,,4748.4,Prepaid Commission,1.1.04.001.0003,5.1.01.001.0003,1.1.04.001.0003,4748.4
+95,,Credit Memo,2017-12-31,5979,Blackhawk Brazil,,Accounts Receivable,,374.4,Prepaid Commission,1.1.04.001.0003,5.1.01.001.0003,1.1.04.001.0003,374.4
+96,,Credit Memo,2017-12-31,5981,ePay Brazil -Steam,,Accounts Receivable,,2664.0,Prepaid Commission,1.1.04.001.0003,5.1.01.001.0003,1.1.04.001.0003,2664.0
+97,,Invoice,2017-12-31,5983,Rixty Canada Customer,,Accounts Receivable,18.32,,Prepaid Commission,1.1.04.001.0003,1.1.04.001.0003,5.1.01.001.0003,18.32
+98,,Invoice,2017-12-31,5984,Rixty Customer,,Accounts Receivable,2166.39,,Prepaid Commission,1.1.04.001.0003,1.1.04.001.0003,5.1.01.001.0003,2166.39
+99,,Invoice,2017-12-31,5986,Tendencia,,Accounts Receivable,67.2,,Prepaid Commission,1.1.04.001.0003,1.1.04.001.0003,5.1.01.001.0003,67.2
+100,,General Journal,2017-12-31,5987,EPay Brazil,,Accounts Receivable,16176.3,,Prepaid Commission,1.1.04.001.0003,1.1.04.001.0003,5.1.01.001.0003,16176.3
+101,,Invoice,2017-12-31,5988,TREL,,Accounts Receivable,512.5,,Prepaid Commission,1.1.04.001.0003,1.1.04.001.0003,5.1.01.001.0003,512.5
+102,,Invoice,2017-12-31,5989,MoIP,,Accounts Receivable,6716.49,,Prepaid Commission,1.1.04.001.0003,1.1.04.001.0003,5.1.01.001.0003,6716.49
+103,,Invoice,2017-12-31,5990,PagSeguro,,Accounts Receivable,1243.99,,Prepaid Commission,1.1.04.001.0003,1.1.04.001.0003,5.1.01.001.0003,1243.99
+104,,General Journal,2017-12-31,5991,Blackhawk Brazil,,Accounts Receivable,7999.2,,Prepaid Commission,1.1.04.001.0003,1.1.04.001.0003,5.1.01.001.0003,7999.2
+105,,Invoice,2017-12-31,5992,QIWI Brazil,,Accounts Receivable,36.0,,Prepaid Commission,1.1.04.001.0003,1.1.04.001.0003,5.1.01.001.0003,36.0
+106,,General Journal,2017-12-31,5993,ResearchNow Brazil,,-SPLIT-,132.0,,Prepaid Commission,1.1.04.001.0003,1.1.04.001.0003,5.1.01.001.0003,132.0
+107,,General Journal,2017-12-31,5994,InComm Brazil,,Accounts Receivable,4442.97,,Prepaid Commission,1.1.04.001.0003,1.1.04.001.0003,5.1.01.001.0003,4442.97
+108,,Invoice,2017-12-31,5995,Santander,,Accounts Receivable,12669.66,,Prepaid Commission,1.1.04.001.0003,1.1.04.001.0003,5.1.01.001.0003,12669.66
+109,,General Journal,2017-12-31,5996,Blackhawk Brazil,,Accounts Receivable,1175.9,,Prepaid Commission,1.1.04.001.0003,1.1.04.001.0003,5.1.01.001.0003,1175.9
+110,,General Journal,2017-12-31,5997,Blackhawk Brazil,,Accounts Receivable,346075.2,,Prepaid Commission,1.1.04.001.0003,1.1.04.001.0003,5.1.01.001.0003,346075.2
+111,,Invoice,2017-12-31,5998,EPay Brazil,,Accounts Receivable,3.48,,Prepaid Commission,1.1.04.001.0003,1.1.04.001.0003,5.1.01.001.0003,3.48
+112,,Invoice,2017-12-31,5999,RV Tecnologia,,Accounts Receivable,4347.75,,Prepaid Commission,1.1.04.001.0003,1.1.04.001.0003,5.1.01.001.0003,4347.75
+113,,Invoice,2017-12-31,6000,QIWI Brazil,,Accounts Receivable,88.8,,Prepaid Commission,1.1.04.001.0003,1.1.04.001.0003,5.1.01.001.0003,88.8
+114,,Invoice,2017-12-31,6004,Cielo,,Accounts Receivable,1072.59,,Prepaid Commission,1.1.04.001.0003,1.1.04.001.0003,5.1.01.001.0003,1072.59
+115,,Invoice,2017-12-31,6005,PayPal Brazil,,Accounts Receivable,204.77,,Prepaid Commission,1.1.04.001.0003,1.1.04.001.0003,5.1.01.001.0003,204.77
+116,,General Journal,2017-12-31,6006,InComm Brazil,,Accounts Receivable,28818.0,,Prepaid Commission,1.1.04.001.0003,1.1.04.001.0003,5.1.01.001.0003,28818.0
+117,,Invoice,2017-12-31,6007,ElavonBR,,Accounts Receivable,5188.61,,Prepaid Commission,1.1.04.001.0003,1.1.04.001.0003,5.1.01.001.0003,5188.61
+118,,General Journal,2017-12-31,6008,EPay Brazil,,Accounts Receivable,40185.0,,Prepaid Commission,1.1.04.001.0003,1.1.04.001.0003,5.1.01.001.0003,40185.0
+119,,Bill,2017-12-31,6009,Rixty Customer {VEND},,Accounts Payable,,1057.13,Prepaid Commission,1.1.04.001.0003,5.1.01.001.0003,1.1.04.001.0003,1057.13
+120,,Bill,2017-12-31,6010,Rixty Brasil,,Accounts Payable,,63017.85,Prepaid Commission,1.1.04.001.0003,5.1.01.001.0003,1.1.04.001.0003,63017.85
+121,,Bill,2017-12-31,6011,Rixty Mexico Customer {VEND},,Accounts Payable,,1.18,Prepaid Commission,1.1.04.001.0003,5.1.01.001.0003,1.1.04.001.0003,1.18
+122,,Bill,2017-12-31,6012,Global Games,,Accounts Payable,,140.28,Prepaid Commission,1.1.04.001.0003,5.1.01.001.0003,1.1.04.001.0003,140.28
+123,,Bill,2017-12-31,6013,Dummy Offset,,Accounts Payable,,215848.24,Prepaid Commission,1.1.04.001.0003,5.1.01.001.0003,1.1.04.001.0003,215848.24
+124,,General Journal,2017-12-31,JE1712-3,,Being payment to LevelUp-Publisher (5%),Santander,,657.25,Prepaid Commission,1.1.04.001.0003,5.1.01.001.0003,1.1.04.001.0003,657.25
+125,,General Journal,2017-12-31,JE1712-30,,Being adjustment of missing MOIP transaction,-SPLIT-,3.55,,Prepaid Commission,1.1.04.001.0003,1.1.04.001.0003,5.1.01.001.0003,3.55
+126,,General Journal,2017-12-31,JE1712-32,,Being adjustment of missing Santander transaction,-SPLIT-,41.63,,Prepaid Commission,1.1.04.001.0003,1.1.04.001.0003,5.1.01.001.0003,41.63
+127,,General Journal,2017-12-31,JE1712-33,,Being adjustment of missing Elavon transaction,-SPLIT-,3.39,,Prepaid Commission,1.1.04.001.0003,1.1.04.001.0003,5.1.01.001.0003,3.39
+128,,General Journal,2017-12-31,JE1712-34,,Being adjustment of missing Epay Brazil transaction,-SPLIT-,3.84,,Prepaid Commission,1.1.04.001.0003,1.1.04.001.0003,5.1.01.001.0003,3.84
+129,,General Journal,2017-12-31,5993,ResearchNow Brazil,,Prepaid Commission,,132.0,Prepaid Reseller Commission,1.1.04.001.0004,5.1.01.001.0003,1.1.04.001.0004,132.0
+130,,General Journal,2017-12-31,JE1712-40,,Being depreciation for Dec'2017,Depreciation Expense,,80.74,Fixed Assets-Accum Depreciation,1.2.03.005.0000,5.1.01.001.0003,1.2.03.005.0000,80.74
+131,,Credit,2017-12-31,5970,Dummy Offset,,-SPLIT-,74.5,,Accounts Payable,2.1.01.001.0001,2.1.01.001.0001,5.1.01.001.0003,74.5
+132,,Bill,2017-12-31,6009,Rixty Customer {VEND},,-SPLIT-,,12346.13,Accounts Payable,2.1.01.001.0001,5.1.01.001.0003,2.1.01.001.0001,12346.13
+133,,Bill,2017-12-31,6010,Rixty Brasil,,-SPLIT-,0.0,,Accounts Payable,2.1.01.001.0001,5.1.01.001.0003,5.1.01.001.0003,
+134,,Bill,2017-12-31,6011,Rixty Mexico Customer {VEND},,-SPLIT-,,69.82,Accounts Payable,2.1.01.001.0001,5.1.01.001.0003,2.1.01.001.0001,69.82
+135,,Bill,2017-12-31,6012,Global Games,,-SPLIT-,,2141.8,Accounts Payable,2.1.01.001.0001,5.1.01.001.0003,2.1.01.001.0001,2141.8
+136,,Bill,2017-12-31,6013,Dummy Offset,,-SPLIT-,0.0,,Accounts Payable,2.1.01.001.0001,5.1.01.001.0003,5.1.01.001.0003,
+137,,Bill,2017-12-31,108707,MOL,Being renewal Google G Suite License,Licenses and Fees,,333.84,Accounts Payable,2.1.01.001.0001,5.1.01.001.0003,2.1.01.001.0001,333.84
+138,,General Journal,2017-12-31,JE1712-1,,Dec'2017 cash flow - General Manager Bonus,Telephone Expense,24700.0,,Accrued of Expenses,2.1.01.002.0001,2.1.01.002.0001,5.1.01.001.0003,24700.0
+139,,General Journal,2017-12-31,JE1712-37,,"Being accrual of Bonus for year 2017 (R$45,900 / 12 mths)",Bonus,,7325.0,Accrued of Expenses,2.1.01.002.0001,5.1.01.001.0003,2.1.01.002.0001,7325.0
+140,,General Journal,2017-12-31,5993,ResearchNow Brazil,,Prepaid Commission,1320.0,,Prepaid Reseller Cards,2.1.01.001.0002,2.1.01.001.0002,5.1.01.001.0003,1320.0
+141,,General Journal,2017-12-31,6003,,,User Deposit,454760.0,,Prepaid Reseller Cards,2.1.01.001.0002,2.1.01.001.0002,5.1.01.001.0003,454760.0
+142,,General Journal,2017-12-31,JE1712-41,,Being adjustment of prepaid reseller card for Steam User Redemption for Dec'2017,Rixty USA Offset Liability,,454760.0,Prepaid Reseller Cards,2.1.01.001.0002,5.1.01.001.0003,2.1.01.001.0002,454760.0
+143,,Credit,2017-12-31,5970,Dummy Offset,,Accounts Payable,470.37,,Rixty USA Offset Liability,2.1.01.001.0009,2.1.01.001.0009,5.1.01.001.0003,470.37
+144,,Bill,2017-12-31,6012,Global Games,,Accounts Payable,320.0,,Rixty USA Offset Liability,2.1.01.001.0009,2.1.01.001.0009,5.1.01.001.0003,320.0
+145,,Bill,2017-12-31,6013,Dummy Offset,,Accounts Payable,,3178596.06,Rixty USA Offset Liability,2.1.01.001.0009,5.1.01.001.0003,2.1.01.001.0009,3178596.06
+146,,General Journal,2017-12-31,JE1712-4,,Net Payout to Rixty Inc for Dec'17,-SPLIT-,4723444.58,,Rixty USA Offset Liability,2.1.01.001.0009,2.1.01.001.0009,5.1.01.001.0003,4723444.58
+147,,General Journal,2017-12-31,JE1712-36,,Being adjustment for spending steam activity at Rixty Brazil due to database lock for Dec'17,Revenue,,686945.6,Rixty USA Offset Liability,2.1.01.001.0009,5.1.01.001.0003,2.1.01.001.0009,686945.6
+148,,General Journal,2017-12-31,JE1712-41,,Being adjustment of prepaid reseller card for Steam User Redemption for Dec'2017,Prepaid Reseller Cards,454760.0,,Rixty USA Offset Liability,2.1.01.001.0009,2.1.01.001.0009,5.1.01.001.0003,454760.0
+149,,General Journal,2017-12-31,JE1712-44,,Being adjustment of consumer steam pin from June'2017 - Dec'2017,Revenue,,10639.6,Rixty USA Offset Liability,2.1.01.001.0009,5.1.01.001.0003,2.1.01.001.0009,10639.6
+150,,Credit,2017-12-31,5970,Dummy Offset,,Accounts Payable,10.87,,Rixty USA Plat Offset Liability,2.1.01.001.0011,2.1.01.001.0011,5.1.01.001.0003,10.87
+151,,Bill,2017-12-31,6013,Dummy Offset,,Accounts Payable,,294182.31,Rixty USA Plat Offset Liability,2.1.01.001.0011,5.1.01.001.0003,2.1.01.001.0011,294182.31
+152,,General Journal,2017-12-31,JE1712-4,,Net Payout to Rixty Inc for Dec'17,Rixty USA Offset Liability,0.0,,Rixty USA Plat Offset Liability,2.1.01.001.0011,5.1.01.001.0003,5.1.01.001.0003,
+153,,General Journal,2017-12-31,JE1712-35,,Being adjustment of Rixty Brazil Pin revenue for Dec'17 from Brazil to US,Revenue,,419666.42,Rixty USA Plat Offset Liability,2.1.01.001.0011,5.1.01.001.0003,2.1.01.001.0011,419666.42
+154,,General Journal,2017-12-31,JE1712-36,,Being adjustment for spending steam activity at Rixty Brazil due to database lock for Dec'17,Revenue,,70255.8,Rixty USA Plat Offset Liability,2.1.01.001.0011,5.1.01.001.0003,2.1.01.001.0011,70255.8
+155,,General Journal,2017-12-31,JE1712-1,,Dec'2017 cash flow - Cofins,Telephone Expense,18.09,,Taxes to Be Paid,2.1.01.003.0009,2.1.01.003.0009,5.1.01.001.0003,18.09
+156,,General Journal,2017-12-31,JE1712-1,,Dec'2017 cash flow - IRRF - Witholding tax,Telephone Expense,4166.93,,Taxes to Be Paid,2.1.01.003.0009,2.1.01.003.0009,5.1.01.001.0003,4166.93
+157,,General Journal,2017-12-31,JE1712-1,,Dec'2017 cash flow - ISS,Telephone Expense,29833.18,,Taxes to Be Paid,2.1.01.003.0009,2.1.01.003.0009,5.1.01.001.0003,29833.18
+158,,General Journal,2017-12-31,JE1712-45,,Tax provision for December'17,ISS -Income tax expenses,,101676.45,Taxes to Be Paid,2.1.01.003.0009,5.1.01.001.0003,2.1.01.003.0009,101676.45
+159,,Credit,2017-12-31,5970,Dummy Offset,,Accounts Payable,,588.35,User Deposit,2.1.01.001.0003,5.1.01.001.0003,2.1.01.001.0003,588.35
+160,,Credit Memo,2017-12-31,5971,Rixty Brazil,,Accounts Receivable,5711.88,,User Deposit,2.1.01.001.0003,2.1.01.001.0003,5.1.01.001.0003,5711.88
+161,,Credit Memo,2017-12-31,5972,EPay Brazil,,Accounts Receivable,5850.0,,User Deposit,2.1.01.001.0003,2.1.01.001.0003,5.1.01.001.0003,5850.0
+162,,Credit Memo,2017-12-31,5973,MoIP,,Accounts Receivable,100.0,,User Deposit,2.1.01.001.0003,2.1.01.001.0003,5.1.01.001.0003,100.0
+163,,Credit Memo,2017-12-31,5974,Santander,,Accounts Receivable,3.0,,User Deposit,2.1.01.001.0003,2.1.01.001.0003,5.1.01.001.0003,3.0
+164,,Credit Memo,2017-12-31,5975,Blackhawk Brazil -Crossfire,,Accounts Receivable,567.92,,User Deposit,2.1.01.001.0003,2.1.01.001.0003,5.1.01.001.0003,567.92
+165,,Credit Memo,2017-12-31,5976,Blackhawk Brazil -Steam,,Accounts Receivable,52760.0,,User Deposit,2.1.01.001.0003,2.1.01.001.0003,5.1.01.001.0003,52760.0
+166,,Credit Memo,2017-12-31,5977,Rixty PIN Distributor BR,,Accounts Receivable,20.0,,User Deposit,2.1.01.001.0003,2.1.01.001.0003,5.1.01.001.0003,20.0
+167,,Credit Memo,2017-12-31,5978,Bank Deposit Brazil,,Accounts Receivable,10500.0,,User Deposit,2.1.01.001.0003,2.1.01.001.0003,5.1.01.001.0003,10500.0
+168,,Credit Memo,2017-12-31,5979,Blackhawk Brazil,,Accounts Receivable,3120.0,,User Deposit,2.1.01.001.0003,2.1.01.001.0003,5.1.01.001.0003,3120.0
+169,,Credit Memo,2017-12-31,5980,Santander,,Accounts Receivable,5174.49,,User Deposit,2.1.01.001.0003,2.1.01.001.0003,5.1.01.001.0003,5174.49
+170,,Credit Memo,2017-12-31,5981,ePay Brazil -Steam,,Accounts Receivable,29600.0,,User Deposit,2.1.01.001.0003,2.1.01.001.0003,5.1.01.001.0003,29600.0
+171,,Invoice,2017-12-31,5983,Rixty Canada Customer,,Accounts Receivable,,130.89,User Deposit,2.1.01.001.0003,5.1.01.001.0003,2.1.01.001.0003,130.89
+172,,Invoice,2017-12-31,5984,Rixty Customer,,Accounts Receivable,,20175.32,User Deposit,2.1.01.001.0003,5.1.01.001.0003,2.1.01.001.0003,20175.32
+173,,Invoice,2017-12-31,5985,Rixty Brazil,,Accounts Receivable,,19385.46,User Deposit,2.1.01.001.0003,5.1.01.001.0003,2.1.01.001.0003,19385.46
+174,,Invoice,2017-12-31,5986,Tendencia,,Accounts Receivable,,560.0,User Deposit,2.1.01.001.0003,5.1.01.001.0003,2.1.01.001.0003,560.0
+175,,General Journal,2017-12-31,5987,EPay Brazil,,Accounts Receivable,,110698.0,User Deposit,2.1.01.001.0003,5.1.01.001.0003,2.1.01.001.0003,110698.0
+176,,Invoice,2017-12-31,5988,TREL,,Accounts Receivable,,4100.0,User Deposit,2.1.01.001.0003,5.1.01.001.0003,2.1.01.001.0003,4100.0
+177,,Invoice,2017-12-31,5989,MoIP,,Accounts Receivable,,337512.17,User Deposit,2.1.01.001.0003,5.1.01.001.0003,2.1.01.001.0003,337512.17
+178,,Invoice,2017-12-31,5990,PagSeguro,,Accounts Receivable,,44159.65,User Deposit,2.1.01.001.0003,5.1.01.001.0003,2.1.01.001.0003,44159.65
+179,,General Journal,2017-12-31,5991,Blackhawk Brazil,,Accounts Receivable,,66660.0,User Deposit,2.1.01.001.0003,5.1.01.001.0003,2.1.01.001.0003,66660.0
+180,,Invoice,2017-12-31,5992,QIWI Brazil,,Accounts Receivable,,300.0,User Deposit,2.1.01.001.0003,5.1.01.001.0003,2.1.01.001.0003,300.0
+181,,General Journal,2017-12-31,5993,ResearchNow Brazil,,Prepaid Commission,,1320.0,User Deposit,2.1.01.001.0003,5.1.01.001.0003,2.1.01.001.0003,1320.0
+182,,General Journal,2017-12-31,5994,InComm Brazil,,Accounts Receivable,,31735.48,User Deposit,2.1.01.001.0003,5.1.01.001.0003,2.1.01.001.0003,31735.48
+183,,Invoice,2017-12-31,5995,Santander,,Accounts Receivable,,1099044.46,User Deposit,2.1.01.001.0003,5.1.01.001.0003,2.1.01.001.0003,1099044.46
+184,,General Journal,2017-12-31,5996,Blackhawk Brazil,,Accounts Receivable,,9799.17,User Deposit,2.1.01.001.0003,5.1.01.001.0003,2.1.01.001.0003,9799.17
+185,,General Journal,2017-12-31,5997,Blackhawk Brazil,,Accounts Receivable,,3845280.0,User Deposit,2.1.01.001.0003,5.1.01.001.0003,2.1.01.001.0003,3845280.0
+186,,Invoice,2017-12-31,5998,EPay Brazil,,Accounts Receivable,,28.99,User Deposit,2.1.01.001.0003,5.1.01.001.0003,2.1.01.001.0003,28.99
+187,,Invoice,2017-12-31,5999,RV Tecnologia,,Accounts Receivable,,57970.0,User Deposit,2.1.01.001.0003,5.1.01.001.0003,2.1.01.001.0003,57970.0
+188,,Invoice,2017-12-31,6000,QIWI Brazil,,Accounts Receivable,,1480.0,User Deposit,2.1.01.001.0003,5.1.01.001.0003,2.1.01.001.0003,1480.0
+189,,Invoice,2017-12-31,6001,Rixty PIN Distributor BR,,Accounts Receivable,,108306.84,User Deposit,2.1.01.001.0003,5.1.01.001.0003,2.1.01.001.0003,108306.84
+190,,Invoice,2017-12-31,6002,Bank Deposit Brazil,,Accounts Receivable,,341193.31,User Deposit,2.1.01.001.0003,5.1.01.001.0003,2.1.01.001.0003,341193.31
+191,,General Journal,2017-12-31,6003,,,Prepaid Reseller Cards,,454760.0,User Deposit,2.1.01.001.0003,5.1.01.001.0003,2.1.01.001.0003,454760.0
+192,,Invoice,2017-12-31,6004,Cielo,,Accounts Receivable,,41668.29,User Deposit,2.1.01.001.0003,5.1.01.001.0003,2.1.01.001.0003,41668.29
+193,,Invoice,2017-12-31,6005,PayPal Brazil,,Accounts Receivable,,5170.76,User Deposit,2.1.01.001.0003,5.1.01.001.0003,2.1.01.001.0003,5170.76
+194,,General Journal,2017-12-31,6006,InComm Brazil,,Accounts Receivable,,320200.0,User Deposit,2.1.01.001.0003,5.1.01.001.0003,2.1.01.001.0003,320200.0
+195,,Invoice,2017-12-31,6007,ElavonBR,,Accounts Receivable,,208377.78,User Deposit,2.1.01.001.0003,5.1.01.001.0003,2.1.01.001.0003,208377.78
+196,,General Journal,2017-12-31,6008,EPay Brazil,,Accounts Receivable,,446500.0,User Deposit,2.1.01.001.0003,5.1.01.001.0003,2.1.01.001.0003,446500.0
+197,,Bill,2017-12-31,6009,Rixty Customer {VEND},,Accounts Payable,13403.26,,User Deposit,2.1.01.001.0003,2.1.01.001.0003,5.1.01.001.0003,13403.26
+198,,Bill,2017-12-31,6010,Rixty Brasil,,Accounts Payable,780620.0,,User Deposit,2.1.01.001.0003,2.1.01.001.0003,5.1.01.001.0003,780620.0
+199,,Bill,2017-12-31,6011,Rixty Mexico Customer {VEND},,Accounts Payable,71.0,,User Deposit,2.1.01.001.0003,2.1.01.001.0003,5.1.01.001.0003,71.0
+200,,Bill,2017-12-31,6012,Global Games,,Accounts Payable,2136.33,,User Deposit,2.1.01.001.0003,2.1.01.001.0003,5.1.01.001.0003,2136.33
+201,,Bill,2017-12-31,6013,Dummy Offset,,Accounts Payable,4356081.01,,User Deposit,2.1.01.001.0003,2.1.01.001.0003,5.1.01.001.0003,4356081.01
+202,,General Journal,2017-12-31,JE1712-3,,Being payment to LevelUp-Publisher (100%),Santander,13145.0,,User Deposit,2.1.01.001.0003,2.1.01.001.0003,5.1.01.001.0003,13145.0
+203,,General Journal,2017-12-31,JE1712-29,,"Being wrongly posted Elavon, Epay Brazil, MOIP, Santander and Rixty Pin Distributor BR transacti...",Accounts Receivable,3140.77,,User Deposit,2.1.01.001.0003,2.1.01.001.0003,5.1.01.001.0003,3140.77
+204,,General Journal,2017-12-31,JE1712-30,,Being adjustment of missing MOIP transaction,Prepaid Commission,,177.47,User Deposit,2.1.01.001.0003,5.1.01.001.0003,2.1.01.001.0003,177.47
+205,,General Journal,2017-12-31,JE1712-31,Rixty PIN Distributor BR,Being adjustment of missing Rixty PIN Distributor BR transaction,Accounts Receivable,,20.0,User Deposit,2.1.01.001.0003,5.1.01.001.0003,2.1.01.001.0003,20.0
+206,,General Journal,2017-12-31,JE1712-32,,Being adjustment of missing Santander transaction,Prepaid Commission,,2775.32,User Deposit,2.1.01.001.0003,5.1.01.001.0003,2.1.01.001.0003,2775.32
+207,,General Journal,2017-12-31,JE1712-33,,Being adjustment of missing Elavon transaction,Prepaid Commission,,135.99,User Deposit,2.1.01.001.0003,5.1.01.001.0003,2.1.01.001.0003,135.99
+208,,General Journal,2017-12-31,JE1712-34,,Being adjustment of missing Epay Brazil transaction,Prepaid Commission,,31.99,User Deposit,2.1.01.001.0003,5.1.01.001.0003,2.1.01.001.0003,31.99
+209,,General Journal,2017-12-31,JE1712-42,,Being reversal of unrealised forex loss in Nov'2017,Unrealized Exchange Gain / Loss,42698.76,,Loan from Rixty USA,2.2.01.001.0001,2.2.01.001.0001,5.1.01.001.0003,42698.76
+210,,General Journal,2017-12-31,JE1712-43,,Unrealised forex loss in Dec'2017,Unrealized Exchange Gain / Loss,,44832.04,Loan from Rixty USA,2.2.01.001.0001,5.1.01.001.0003,2.2.01.001.0001,44832.04
+211,,Credit,2017-12-31,5970,Dummy Offset,Revenue,Accounts Payable,25.2,,Revenue,3.1.01.001.0001,3.1.01.001.0001,5.1.01.001.0003,25.2
+212,,General Journal,2017-12-31,5982,Rixty Customer,,Accounts Receivable,,43.5,Revenue,3.1.01.001.0001,5.1.01.001.0003,3.1.01.001.0001,43.5
+213,,Bill,2017-12-31,6010,Rixty Brasil,Revenue,Accounts Payable,,780620.0,Revenue,3.1.01.001.0001,5.1.01.001.0003,3.1.01.001.0001,780620.0
+214,,Bill,2017-12-31,6012,Global Games,Revenue,Accounts Payable,,314.53,Revenue,3.1.01.001.0001,5.1.01.001.0003,3.1.01.001.0001,314.53
+215,,Bill,2017-12-31,6013,Dummy Offset,Revenue,Accounts Payable,,879099.93,Revenue,3.1.01.001.0001,5.1.01.001.0003,3.1.01.001.0001,879099.93
+216,,General Journal,2017-12-31,JE1712-3,,Being payment to LevelUp-Publisher (12%),Santander,,1577.4,Revenue,3.1.01.001.0001,5.1.01.001.0003,3.1.01.001.0001,1577.4
+217,,General Journal,2017-12-31,JE1712-35,,Being adjustment of Rixty Brazil Pin revenue for Dec'17 from Brazil to US,Rixty USA Plat Offset Liability,419666.42,,Revenue,3.1.01.001.0001,3.1.01.001.0001,5.1.01.001.0003,419666.42
+218,,General Journal,2017-12-31,JE1712-36,,Being adjustment for spending steam activity at Rixty Brazil due to database lock for Dec'17,-SPLIT-,757201.4,,Revenue,3.1.01.001.0001,3.1.01.001.0001,5.1.01.001.0003,757201.4
+219,,General Journal,2017-12-31,JE1712-39,,Adjustment for Crossfire - Dec'17,Accounts Receivable,108306.84,,Revenue,3.1.01.001.0001,3.1.01.001.0001,5.1.01.001.0003,108306.84
+220,,General Journal,2017-12-31,JE1712-44,,Being adjustment of consumer steam pin from June'2017 - Dec'2017,Rixty USA Offset Liability,10639.6,,Revenue,3.1.01.001.0001,3.1.01.001.0001,5.1.01.001.0003,10639.6
+221,,General Journal,2017-12-31,5982,Rixty Customer,,Accounts Receivable,,320.0,Rixty Offset,Others,5.1.01.001.0003,Others,320.0
+222,,Credit,2017-12-31,5970,Dummy Offset,,Accounts Payable,7.41,,Surcharge Revenue,3.1.01.001.0002,3.1.01.001.0002,5.1.01.001.0003,7.41
+223,,General Journal,2017-12-31,5987,EPay Brazil,,Accounts Receivable,,4380.98,Surcharge Revenue,3.1.01.001.0002,5.1.01.001.0003,3.1.01.001.0002,4380.98
+224,,General Journal,2017-12-31,5991,Blackhawk Brazil,,Accounts Receivable,,3891.17,Surcharge Revenue,3.1.01.001.0002,5.1.01.001.0003,3.1.01.001.0002,3891.17
+225,,General Journal,2017-12-31,5994,InComm Brazil,,Accounts Receivable,,1537.68,Surcharge Revenue,3.1.01.001.0002,5.1.01.001.0003,3.1.01.001.0002,1537.68
+226,,General Journal,2017-12-31,5996,Blackhawk Brazil,,Accounts Receivable,,376.64,Surcharge Revenue,3.1.01.001.0002,5.1.01.001.0003,3.1.01.001.0002,376.64
+227,,General Journal,2017-12-31,5997,Blackhawk Brazil,,Accounts Receivable,,214711.33,Surcharge Revenue,3.1.01.001.0002,5.1.01.001.0003,3.1.01.001.0002,214711.33
+228,,General Journal,2017-12-31,6006,InComm Brazil,,Accounts Receivable,,17424.64,Surcharge Revenue,3.1.01.001.0002,5.1.01.001.0003,3.1.01.001.0002,17424.64
+229,,General Journal,2017-12-31,6008,EPay Brazil,,Accounts Receivable,,24297.64,Surcharge Revenue,3.1.01.001.0002,5.1.01.001.0003,3.1.01.001.0002,24297.64
+230,,Bill,2017-12-31,6013,Dummy Offset,,Accounts Payable,,4202.72,Surcharge Revenue,3.1.01.001.0002,5.1.01.001.0003,3.1.01.001.0002,4202.72
+231,,Credit,2017-12-31,5970,Dummy Offset,Commission Expense,Accounts Payable,,33.5,Commission Expense,3.2.02.002.0009,5.1.01.001.0003,3.2.02.002.0009,33.5
+232,,Bill,2017-12-31,6010,Rixty Brasil,Commission Expense,Accounts Payable,63017.85,,Commission Expense,3.2.02.002.0009,3.2.02.002.0009,5.1.01.001.0003,63017.85
+233,,Bill,2017-12-31,6012,Global Games,Commission Expense,Accounts Payable,140.28,,Commission Expense,3.2.02.002.0009,3.2.02.002.0009,5.1.01.001.0003,140.28
+234,,Bill,2017-12-31,6013,Dummy Offset,Commission Expense,Accounts Payable,215848.24,,Commission Expense,3.2.02.002.0009,3.2.02.002.0009,5.1.01.001.0003,215848.24
+235,,General Journal,2017-12-31,JE1712-1,,Dec'2017 cash flow - Santander Boleto Fee,Telephone Expense,12727.88,,Commission Expense,3.2.02.002.0009,3.2.02.002.0009,5.1.01.001.0003,12727.88
+236,,General Journal,2017-12-31,JE1712-3,,Being payment to LevelUp-Publisher (5%),Santander,657.25,,Commission Expense,3.2.02.002.0009,3.2.02.002.0009,5.1.01.001.0003,657.25
+237,,General Journal,2017-12-31,JE1712-19,,"Blackhawk cards sold in Dec'2017- MOL/RIXTY 31.99 BRL @ 3,027 - BRL0.47",Inventory,2239.98,,Cost of Good Sold,3.2.01.001.0001,3.2.01.001.0001,5.1.01.001.0003,2239.98
+238,,General Journal,2017-12-31,JE1712-20,, ePay Brazil cards sold in Dece'2017- CROSSFIRE 28.99 BRL @ 1 units - BRL1.38,Inventory,1.38,,Cost of Good Sold,3.2.01.001.0001,3.2.01.001.0001,5.1.01.001.0003,1.38
+239,,General Journal,2017-12-31,JE1712-21,,"Epay BRAZIL - STEAM cards sold in December'17 - 52.99 BRL @ 8,338 - BRL0.75",Inventory,6253.5,,Cost of Good Sold,3.2.01.001.0001,3.2.01.001.0001,5.1.01.001.0003,6253.5
+240,,General Journal,2017-12-31,JE1712-22,,"Blackhawk cards sold in December 2017- MOL/RIXTY 31.99 BRL @ 2,118 - BRL0.47",Inventory,995.46,,Cost of Good Sold,3.2.01.001.0001,3.2.01.001.0001,5.1.01.001.0003,995.46
+241,,General Journal,2017-12-31,JE1712-23,," Blackhawk cards sold in December 2017- STEAM 31.99 BRL @ 30,288 - BRL0.47",Inventory,14235.36,,Cost of Good Sold,3.2.01.001.0001,3.2.01.001.0001,5.1.01.001.0003,14235.36
+242,,General Journal,2017-12-31,JE1712-24,," Blackhawk cards sold in December 2017- STEAM 52.99 BRL @ 57,689 - BRL0.65",Inventory,37497.85,,Cost of Good Sold,3.2.01.001.0001,3.2.01.001.0001,5.1.01.001.0003,37497.85
+243,,General Journal,2017-12-31,JE1712-25,, Blackhawk cards sold in Decemebr 2017- CROSSFIRE 70.99 BRL @ 99 -BRL0.64,Inventory,63.36,,Cost of Good Sold,3.2.01.001.0001,3.2.01.001.0001,5.1.01.001.0003,63.36
+244,,General Journal,2017-12-31,JE1712-26,, Blackhawk cards sold in December 2017- CROSSFIRE 28.99 BRL @ 76 - BRL0.80,Inventory,60.8,,Cost of Good Sold,3.2.01.001.0001,3.2.01.001.0001,5.1.01.001.0003,60.8
+245,,General Journal,2017-12-31,JE1712-27,, INCOMM BRAZIL cards sold in December 2017- MOL/RIXTY 75.00 BRL @ 447 - BRL1.12,Inventory,500.64,,Cost of Good Sold,3.2.01.001.0001,3.2.01.001.0001,5.1.01.001.0003,500.64
+246,,General Journal,2017-12-31,JE1712-28,," INCOMM BRAZIL - STEAM cards sold in December 2017 - 52.99 BRL @ 6,404 - BRL0.47",Inventory,3009.88,,Cost of Good Sold,3.2.01.001.0001,3.2.01.001.0001,5.1.01.001.0003,3009.88
+247,,General Journal,2017-12-31,JE1712-1,,Dec'2017 cash flow - Santander Bank Fee,Telephone Expense,45.0,,Bank Service Charges,3.3.01.002.0004,3.3.01.002.0004,5.1.01.001.0003,45.0
+248,,General Journal,2017-12-31,JE1712-40,,Being depreciation for Dec'2017,AD-Computer,80.74,,Depreciation Expense,3.2.02.002.0002,3.2.02.002.0002,5.1.01.001.0003,80.74
+249,,General Journal,2017-12-31,JE1712-1,,Dec'2017 cash flow - Molp refund case,Telephone Expense,20.0,,Fraud Loss,Others,Others,5.1.01.001.0003,20.0
+250,,General Journal,2017-12-31,JE1712-45,,Tax provision for December'17 -CSLL,ISS -Income tax expenses,18965.25,,Income Tax Expense,6.1.10.001.0001,6.1.10.001.0001,5.1.01.001.0003,18965.25
+251,,General Journal,2017-12-31,JE1712-1,,Dec'2017 cash flow - IOF,Telephone Expense,19999.5,,Income Tax Expense,6.1.10.001.0001,6.1.10.001.0001,5.1.01.001.0003,19999.5
+252,,General Journal,2017-12-31,JE1712-45,,Tax provision for December'17 - IR (IRPJ),ISS -Income tax expenses,50331.66,,Income Tax Expense,6.1.10.001.0001,6.1.10.001.0001,5.1.01.001.0003,50331.66
+253,,General Journal,2017-12-31,JE1712-45,,Tax provision for December'17 - ISS,-SPLIT-,32379.54,,Income Tax Expense,6.1.10.001.0001,6.1.10.001.0001,5.1.01.001.0003,32379.54
+254,,General Journal,2017-12-31,JE1712-45,,Tax provision for December'17 -PIS & COFINS,ISS -Income tax expenses,0.0,,Income Tax Expense,6.1.10.001.0001,5.1.01.001.0003,5.1.01.001.0003,
+255,,Bill,2017-12-31,108707,MOL,Being renewal Google G Suite License (USD100.80 x 3.3118953),Accounts Payable,333.84,,Licenses and Fees,Others,Others,5.1.01.001.0003,333.84
+256,,General Journal,2017-12-31,JE1712-1,,Dec'2017 cash flow - Facebook management,Telephone Expense,1500.0,,Marketing,3.2.02.002.0015,3.2.02.002.0015,5.1.01.001.0003,1500.0
+257,,General Journal,2017-12-31,JE1712-38,,Being promotion fee for Dec 2017,Accounts Receivable,10532.81,,Marketing,3.2.02.002.0015,3.2.02.002.0015,5.1.01.001.0003,10532.81
+258,,General Journal,2017-12-31,JE1712-37,,"Being accrual of Bonus for year 2017 (R$45,900 / 12 mths)",Accrued of Expenses,7325.0,,Payroll,3.2.02.002.0010,3.2.02.002.0010,5.1.01.001.0003,7325.0
+259,,General Journal,2017-12-31,JE1712-1,,Dec'2017 cash flow -Food voucher,Telephone Expense,447.92,,Payroll,3.2.02.002.0010,3.2.02.002.0010,5.1.01.001.0003,447.92
+260,,General Journal,2017-12-31,JE1712-1,,Dec'2017 cash flow - Financial Coordinator,Telephone Expense,5121.04,,Payroll,3.2.02.002.0010,3.2.02.002.0010,5.1.01.001.0003,5121.04
+261,,General Journal,2017-12-31,JE1712-1,,Dec'2017 cash flow - General Manager,Telephone Expense,24450.0,,Payroll,3.2.02.002.0010,3.2.02.002.0010,5.1.01.001.0003,24450.0
+262,,General Journal,2017-12-31,JE1712-1,,Dec'2017 cash flow -FGTS,Telephone Expense,537.13,,Payroll,3.2.02.002.0010,3.2.02.002.0010,5.1.01.001.0003,537.13
+263,,General Journal,2017-12-31,JE1712-1,,Dec'2017 cash flow -INSS,Telephone Expense,5894.2,,Payroll,3.2.02.002.0010,3.2.02.002.0010,5.1.01.001.0003,5894.2
+264,,General Journal,2017-12-31,JE1712-1,,Dec'2017 cash flow - Credit Card/ Debit Card Gateway,Telephone Expense,27.8,,Processing Fee,3.2.01.003.0003,3.2.01.003.0003,5.1.01.001.0003,27.8
+265,,General Journal,2017-12-31,JE1712-1,,Dec'2017 cash flow - Data Bureau,Telephone Expense,834.32,,Processing Fee,3.2.01.003.0003,3.2.01.003.0003,5.1.01.001.0003,834.32
+266,,General Journal,2017-12-31,JE1712-1,,Dec'2017 cash flow,Telephone Expense,3811.98,,Professional Fees,3.2.01.003.0003,3.2.01.003.0003,5.1.01.001.0003,3811.98
+267,,General Journal,2017-12-31,JE1712-1,,Dec'2017 cash flow - Anti fraud calls,Telephone Expense,500.0,,Professional Fees,3.2.01.003.0003,3.2.01.003.0003,5.1.01.001.0003,500.0
+268,,General Journal,2017-12-31,JE1712-1,,Dec'2017 cash flow - Anti Fraud Consultant,Telephone Expense,500.0,,Professional Fees,3.2.01.003.0003,3.2.01.003.0003,5.1.01.001.0003,500.0
+269,,General Journal,2017-12-31,JE1712-1,,Dec'2017 cash flow - Customer Support Agent,Telephone Expense,1000.0,,Professional Fees,3.2.01.003.0003,3.2.01.003.0003,5.1.01.001.0003,1000.0
+270,,General Journal,2017-12-31,JE1712-1,,Dec'2017 cash flow,Telephone Expense,160.0,,Professional Fees,3.2.01.003.0003,3.2.01.003.0003,5.1.01.001.0003,160.0
+271,,General Journal,2017-12-31,JE1712-1,,Dec'2017 cash flow - BBDA Agency,Telephone Expense,4508.62,,Professional Fees,3.2.01.003.0003,3.2.01.003.0003,5.1.01.001.0003,4508.62
+272,,General Journal,2017-12-31,JE1712-1,,Dec'2017 cash flow - Osmose Coworking,Telephone Expense,1600.0,,Rent Expense,3.2.01.003.0006,3.2.01.003.0006,5.1.01.001.0003,1600.0
+273,,General Journal,2017-12-31,JE1712-1,,Dec'2017 cash flow - Regus,Telephone Expense,219.0,,Rent Expense,3.2.01.003.0006,3.2.01.003.0006,5.1.01.001.0003,219.0
+274,,General Journal,2017-12-31,5987,EPay Brazil,,Accounts Receivable,,0.01,Rounding Differences,3.2.02.002.0017,5.1.01.001.0003,3.2.02.002.0017,0.01
+275,,General Journal,2017-12-31,5994,InComm Brazil,,Accounts Receivable,0.0,,Rounding Differences,3.2.02.002.0017,5.1.01.001.0003,5.1.01.001.0003,
+276,,Bill,2017-12-31,6013,Dummy Offset,,Accounts Payable,0.01,,Rounding Differences,3.2.02.002.0017,3.2.02.002.0017,5.1.01.001.0003,0.01
+277,,General Journal,2017-12-31,JE1712-1,,Dec'2017 cash flow,-SPLIT-,134.9,,Telephone Expense,3.2.02.002.0006,3.2.02.002.0006,5.1.01.001.0003,134.9
+278,,General Journal,2017-12-31,JE1712-42,,Being reversal of unrealised forex loss in Nov'2017,Loan from Rixty USA,,42698.76,Unrealized Exchange Gain / Loss,3.3.02.002.0001,5.1.01.001.0003,3.3.02.002.0001,42698.76
+279,,General Journal,2017-12-31,JE1712-43,,Unrealised forex loss in Dec'2017,Loan from Rixty USA,44832.04,,Unrealized Exchange Gain / Loss,3.3.02.002.0001,3.3.02.002.0001,5.1.01.001.0003,44832.04
+280,,General Journal,2017-12-31,JE1712-18,,Being bank interest for Dec'2017,Santander Investment Account,,3495.9,Interest Income,3.3.01.001.0003,5.1.01.001.0003,3.3.01.001.0003,3495.9
+281,,,,,,,,,,,,,,
+282,,,,,,,,32548609.470000003,32548609.469999995,,,,,
+283,,,,,,,,,0.0,,,,,

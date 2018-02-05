@@ -19,4 +19,5 @@ urlpatterns = [
     url(r'^download/$', views.excel_download, name='excel'),# isto realiza o download
     url(r'^Demonstrativos/$', views.Balance_Sheet, name='BS'),
     url(r'^DRE/$', views.Income_Statement, name='IS'),
+    url(r'^Taxes/$', views.Statements_Upload, name='statements'),
 ]

@@ -18,7 +18,7 @@ from django.shortcuts import render, get_object_or_404, redirect
 from django.contrib.auth.decorators import login_required
 from django.utils import timezone
 import django_excel as excel
-from .models import Accounting
+#from .models import Accounting
 from django.shortcuts import render_to_response
 from datetime import datetime
 from django.views.generic import (TemplateView,ListView,
@@ -44,6 +44,10 @@ import pandas as pd
 from pandas.tools.plotting import table
 
 import datetime as dt
+
+from accounting.forms import DocumentForm, Statements
+
+import numpy as np
 
 
 def home(request):
@@ -100,7 +104,241 @@ class DecimalJSONEncoder(simplejson.JSONEncoder):
             return str(o)
         return super(DecimalJSONEncoder, self).default(o)
 
+
+
 @login_required
+def Statements_Upload(request):
+    if request.method == 'POST':
+        form = DocumentForm(request.POST, request.FILES)
+        if form.is_valid():
+            GL_B = pd.read_excel(request.FILES['document'],'GL')
+
+            GL = GL_B.to_csv('documents/FILE.csv')
+            fields = ['Unnamed: 1','Type','Date','Num','Name','Memo','Split','Debit','Credit']
+
+            GL = pd.read_csv('documents/FILE.csv', usecols=fields)
+            GL['Classification'] = GL['Unnamed: 1'].fillna(method='ffill')
+            GL = GL.fillna(0)
+
+            BRAZIL = []
+
+# For each row in the column,
+            for row in GL['Classification']:
+            # if more than a value,
+                if row == 'Santander':
+                # Append a letter grade
+                    BRAZIL.append('1.1.01.002.0001')
+                elif row == 'Santander Investment Account':
+            # Append a letter grad
+                    BRAZIL.append('1.1.01.003.0002')
+                elif row == 'Accounts Receivable':
+                # Append a letter grad
+                    BRAZIL.append('1.1.02.001.0001')
+                elif row == 'Deposit - Other':
+                # Append a letter grad
+                    BRAZIL.append('2.1.01.001.0003')
+                elif row == 'Inventory':
+                # Append a letter grad
+                    BRAZIL.append('1.1.03.001.0001')
+                elif row == 'Prepaid Commission':
+                # Append a letter grad
+                    BRAZIL.append('1.1.04.001.0003')
+                elif row == 'Prepaid Reseller Commission':
+                # Append a letter grad
+                    BRAZIL.append('1.1.04.001.0004')
+                elif row == 'Fixed Assets-Accum Depreciation':
+                # Append a letter grad
+                    BRAZIL.append('1.2.03.005.0000')
+                elif row == 'Accounts Payable':
+                # Append a letter grad
+                    BRAZIL.append('2.1.01.001.0001')
+                elif row == 'Accrued of Expenses':
+                # Append a letter grad
+                    BRAZIL.append('2.1.01.002.0001')
+                elif row == 'Prepaid Reseller Cards':
+                # Append a letter grad
+                    BRAZIL.append('2.1.01.001.0002')
+                elif row == 'Rixty USA Offset Liability':
+                # Append a letter grad
+                    BRAZIL.append('2.1.01.001.0009')
+                elif row == 'Rixty USA Plat Offset Liability':
+                # Append a letter grad
+                    BRAZIL.append('2.1.01.001.0011')
+                elif row == 'Taxes to Be Paid':
+                # Append a letter grad
+                    BRAZIL.append('2.1.01.003.0009')
+                elif row == 'User Deposit':
+                # Append a letter grad
+                    BRAZIL.append('2.1.01.001.0003')
+                elif row == 'Loan from Rixty USA':
+                # Append a letter grad
+                    BRAZIL.append('2.2.01.001.0001')
+                elif row == 'Revenue':
+                # Append a letter grad
+                    BRAZIL.append('3.1.01.001.0001')
+                elif row == 'Surcharge Revenue':
+                # Append a letter grad
+                    BRAZIL.append('3.1.01.001.0002')
+                elif row == 'Commission Expense':
+                # Append a letter grad
+                    BRAZIL.append('3.2.02.002.0009')
+                elif row == 'Cost of Good Sold':
+                # Append a letter grad
+                    BRAZIL.append('3.2.01.001.0001')
+                elif row == 'Advertising and Promotion':
+                # Append a letter grad
+                    BRAZIL.append('3.2.02.002.0015')
+                elif row == 'Bank Service Charges':
+                # Append a letter grad
+                    BRAZIL.append('3.3.01.002.0004')
+                elif row == 'Computer and Internet Expenses':
+                # Append a letter grad
+                    BRAZIL.append('3.2.02.002.0006')
+                elif row == 'Depreciation Expense':
+                # Append a letter grad
+                    BRAZIL.append('3.2.02.002.0002')
+                elif row == 'CSLL -Income tax expenses':
+                # Append a letter grad
+                    BRAZIL.append('6.1.10.001.0002')
+                elif row == 'IOF-Income tax expenses':
+                # Append a letter grad
+                    BRAZIL.append('3.3.01.002.0003')
+                elif row == 'IRPJ - Income tax expenses':
+                # Append a letter grad
+                    BRAZIL.append('6.1.10.001.0001')
+                elif row == 'ISS -Income tax expenses':
+                # Append a letter grad
+                    BRAZIL.append('3.1.02.001.0005')
+                elif row == 'PIS/COFFINS -Income tax expense':
+                # Append a letter grad
+                    BRAZIL.append('3.1.02.001.0006')
+                elif row == 'Marketing':
+                # Append a letter grad
+                    BRAZIL.append('3.2.02.002.0015')
+                elif row == 'Bonus':
+                # Append a letter grad
+                    BRAZIL.append('3.2.01.002.0001')
+                elif row == 'Food Voucher':
+                # Append a letter grad
+                    BRAZIL.append('3.2.02.001.0008')
+                elif row == 'Payroll Expenses':
+                # Append a letter grad
+                    BRAZIL.append('3.2.01.002.0001')
+                elif row == 'FGTS - Taxes on payroll':
+                # Append a letter grad
+                    BRAZIL.append('3.2.02.001.0007')
+                elif row == 'INSS-Taxes on payroll':
+                # Append a letter grad
+                    BRAZIL.append('3.2.02.001.0006')
+                elif row == 'IRRF':
+                # Append a letter grad
+                    BRAZIL.append('3.2.01.002.0001')
+                elif row == 'Postage and Delivery':
+                # Append a letter grad
+                    BRAZIL.append('3.2.02.002.0007')
+                elif row == 'Processing Fee':
+                # Append a letter grad
+                    BRAZIL.append('3.2.01.003.0003')
+                elif row == 'Professional Fees':
+                # Append a letter grad
+                    BRAZIL.append('3.2.01.003.0003')
+                elif row == 'Rent Expense':
+                # Append a letter grad
+                    BRAZIL.append('3.2.01.003.0006')
+                elif row == 'Rounding Differences':
+                # Append a letter grad
+                    BRAZIL.append('3.2.02.002.0017')
+                elif row == 'Telephone Expense':
+                # Append a letter grad
+                    BRAZIL.append('3.2.02.002.0006')
+                elif row == 'Unknown Expenses':
+                # Append a letter grad
+                    BRAZIL.append('3.2.02.002.0017')
+                elif row == 'Unrealized Exchange Gain / Loss':
+                # Append a letter grad
+                    BRAZIL.append('3.3.02.002.0001')
+                elif row == 'Interest Income':
+                # Append a letter grad
+                    BRAZIL.append('3.3.01.001.0003')
+                elif row == 'Payroll':
+                # Append a letter grad
+                    BRAZIL.append('3.2.02.002.0010')
+                elif row == 'Income Tax Expense':
+                # Append a letter grad
+                    BRAZIL.append('6.1.10.001.0001')
+                elif row == 'Automobile Expense':
+                # Append a letter grad
+                    BRAZIL.append('3.2.02.002.0017')
+                elif row == 'Fixed Assets':
+                # Append a letter grad
+                    BRAZIL.append('3.2.02.002.0017')
+                elif row == 'Printing and Reproduction':
+                # Append a letter grad
+                    BRAZIL.append('3.2.02.002.0010')
+                else:
+                    BRAZIL.append('Others')
+
+            BRAZIL = pd.DataFrame(BRAZIL)
+            GL['BRAZIL'] = BRAZIL
+
+            GL['Debit'] = pd.to_numeric(GL['Debit'])
+            GL['Credit'] = pd.to_numeric(GL['Credit'])
+
+            GL = GL[GL['Split']!='']
+
+
+            GL['debit account'] = np.where(GL['Debit']>0, GL['BRAZIL'], '5.1.01.001.0003')
+            GL['credit account'] = np.where(GL['Credit']>0, GL['BRAZIL'], '5.1.01.001.0003')
+
+            GL['R$'] = np.where(GL['Debit']>0, GL['Debit'], GL['Credit'])
+
+
+            Revenue = GL.loc[GL['Classification'].values=='Revenue']
+            Revenue = Revenue['Credit'] - Revenue['Debit']
+            Surcharge_Revenue = GL[GL['Classification']=='Surcharge Revenue']
+            Surcharge_Revenue = Surcharge_Revenue['Credit'] - Surcharge_Revenue['Debit']
+            SALES= '{:,.2f}'.format(Revenue.sum() + Surcharge_Revenue.sum())
+            SALES2 = Revenue.sum() + Surcharge_Revenue.sum()
+            INTEREST = GL.loc[GL['Classification'].values=='Interest Income']
+            INTEREST = INTEREST['Credit'] - INTEREST['Debit']
+            Interest_Income = '{:,.2f}'.format(INTEREST.sum())
+            Interest_Income2 = INTEREST.sum()
+            ISS = '{:,.2f}'.format((Revenue.sum() + Surcharge_Revenue.sum()) * 0.05)
+            Income_Tax_15 = '{:,.2f}'.format((SALES2* 0.32 )  + Interest_Income2)
+            Tax_15 = '{:,.2f}'.format(((SALES2* 0.32 )  + Interest_Income2) * 0.15)
+            Tax_15_b = ((SALES2* 0.32 )  + Interest_Income2) * 0.15
+            Additional = '{:,.2f}'.format(((SALES2* 0.32 ) - 20000) * 0.10)
+            Additional2 = ((SALES2* 0.32 ) - 20000) * 0.10
+            Income_Tax_Ttl = '{:,.2f}'.format(Tax_15_b + Additional2)
+            Income_Tax_Ttl2 = Tax_15_b + Additional2
+            CSLL = '{:,.2f}'.format(((SALES2* 0.32 )  + Interest_Income2) * 0.09)
+            CSLL2 = ((SALES2* 0.32 )  + Interest_Income2) * 0.09
+            TTL = '{:,.2f}'.format(Income_Tax_Ttl2 + CSLL2)
+
+            return render(request, 'tax.htm',{'SALES':SALES, 'Interest_Income':Interest_Income, 'ISS': ISS, "Income_Tax_15":Income_Tax_15,"Tax_15":Tax_15,
+                            'Additional':Additional, 'Income_Tax_Ttl':Income_Tax_Ttl,'CSLL':CSLL, 'TTL': TTL})
+#            return excel.make_response(pe.get_sheet(file_name='teste.xlsx'), "csv",file_name='forecast_2018')
+
+    else:
+        form = Statements()
+    return render(
+        request,
+        'statements.html',
+        {
+            'form': form,
+            'title': 'Excel file upload and download example',
+            'header': ('Please choose any excel file ' +
+                       'from your cloned repository:')
+        })
+
+def __str__(self):
+   return 'statements:' + self.name
+
+
+
+
+
+# @login_required
 def handson_table_accounting(request):
     return excel.make_response_from_tables(
     [Accounting], 'handsontable.html')

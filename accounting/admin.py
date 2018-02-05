@@ -2,19 +2,30 @@ from django.contrib import admin
 
 # Register your models here.
 
-from accounting.models import Accounting
+
+from accounting.models import  Document, Balance_Sheet
 
 
-class AccountingAdmin(admin.ModelAdmin):
-    list_display =["__str__","company","conta_devedora","conta_credora","amount","date"]
-    search_fields = ["conta_devedora","date","conta_devedora","conta_credora","amount"]
-    list_filter = ["conta_devedora", "conta_credora","date"]
-    list_editable = ["amount"]
-    class Meta:
-        model = Accounting
 
-admin.site.register(Accounting, AccountingAdmin)
 
+admin.site.register(Document)
+admin.site.register(Balance_Sheet)
+
+
+
+#from accounting.models import Accounting
+
+
+# class AccountingAdmin(admin.ModelAdmin):
+#     list_display =["__str__","company","conta_devedora","conta_credora","amount","date"]
+#     search_fields = ["conta_devedora","date","conta_devedora","conta_credora","amount"]
+#     list_filter = ["conta_devedora", "conta_credora","date"]
+#     list_editable = ["amount"]
+#     class Meta:
+#         model = Accounting
+
+#admin.site.register(Accounting, AccountingAdmin)
+#admin.site.register(Accounting)
 
 # company = models.CharField(max_length=200)
 # history = models.CharField(max_length=200)

@@ -1,0 +1,778 @@
+,,,,,,Type,Unnamed: 1,Date,Unnamed: 3,Num,Unnamed: 5,Adj,Unnamed: 7,Name,Unnamed: 9,Memo,Unnamed: 11,Split,Unnamed: 13,Debit,Unnamed: 15,Credit,Unnamed: 17,Balance
+,CitiBank,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Total CitiBank,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Inflation Hedge Savings CDB,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Total Inflation Hedge Savings CDB,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Not Specified,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Total Not Specified,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Rixty USA Offset,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Total Rixty USA Offset,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Rixty USA Plat Offset,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Total Rixty USA Plat Offset,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Santander,,,,,,,,,,,,,,,,,,,,,,,14371.89
+,,,,,,Transfer,,2017-11-30,,,,,,,,Funds Transfer,,Santander Investment Account,,,,3287000.0,,-3272628.11
+,,,,,,General Journal,,2017-11-30,,JE1711-1,,Ö,,,,Nov'2017 cash flow,,Postage and Delivery,,,,122247.17,,-3394875.28
+,,,,,,General Journal,,2017-11-30,,JE1711-2,,Ö,,,,Net Payout to Rixty Inc for Nov'17,,Rixty USA Offset Liability,,,,4222697.55,,-7617572.83
+,,,,,,Transfer,,2017-11-30,,,,,,,,Funds Transfer,,Santander Investment Account,,3606369.08,,,,-4011203.75
+,,,,,,Payment,,2017-11-30,,,,,,Blackhawk Brazil,,,,Accounts Receivable,,1666172.64,,,,-2345031.11
+,,,,,,Payment,,2017-11-30,,,,,,Cielo,,,,Accounts Receivable,,42524.05,,,,-2302507.06
+,,,,,,Payment,,2017-11-30,,,,,,ElavonBR,,,,Accounts Receivable,,154609.05,,,,-2147898.01
+,,,,,,Payment,,2017-11-30,,,,,,EPay Brazil,,,,Accounts Receivable,,237389.87,,,,-1910508.14
+,,,,,,Payment,,2017-11-30,,,,,,MoIP,,,,Accounts Receivable,,273000.0,,,,-1637508.14
+,,,,,,Payment,,2017-11-30,,,,,,PayPal Brazil,,,,Accounts Receivable,,6521.52,,,,-1630986.62
+,,,,,,Payment,,2017-11-30,,,,,,QIWI Brazil,,,,Accounts Receivable,,7288.4,,,,-1623698.22
+,,,,,,Payment,,2017-11-30,,,,,,Bank Deposit Brazil,,,,Accounts Receivable,,219200.0,,,,-1404498.22
+,,,,,,Payment,,2017-11-30,,,,,,RV Tecnologia,,,,Accounts Receivable,,39035.53,,,,-1365462.69
+,,,,,,Payment,,2017-11-30,,,,,,Santander,,,,Accounts Receivable,,1164913.5,,,,-200549.19
+,,,,,,Payment,,2017-11-30,,,,,,Tendencia,,,,Accounts Receivable,,990.0,,,,-199559.19
+,,,,,,Payment,,2017-11-30,,,,,,TREL,,,,Accounts Receivable,,6877.5,,,,-192681.69
+,,,,,,Payment,,2017-11-30,,,,,,PagSeguro,,,,Accounts Receivable,,64148.62,,,,-128533.07
+,,,,,,Payment,,2017-11-30,,,,,,InComm Brazil,,,,Accounts Receivable,,279757.53,,,,151224.46
+,Total Santander,,,,,,,,,,,,,,,,,,,7768797.29,,7631944.72,,151224.46
+,Santander Investment Account,,,,,,,,,,,,,,,,,,,,,,,823098.16
+,,,,,,Transfer,,2017-11-30,,,,,,,,Funds Transfer,,Santander,,3287000.0,,,,4110098.16
+,,,,,,Transfer,,2017-11-30,,,,,,,,Funds Transfer,,Santander,,,,3606369.08,,503729.08
+,,,,,,General Journal,,2017-11-30,,JE1711-7,,Ö,,,,Being bank interest for Nov'2017,,Interest Income,,2983.04,,,,506712.12
+,Total Santander Investment Account,,,,,,,,,,,,,,,,,,,3289983.04,,3606369.08,,506712.12
+,Santander Investment Savings,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Total Santander Investment Savings,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Accounts Receivable,,,,,,,,,,,,,,,,,,,,,,,2345284.17
+,,,,,,Credit Memo,,2017-11-30,,5794,,,,Rixty Brazil,,,,User Deposit,,,,31.16,,2345253.01
+,,,,,,Credit Memo,,2017-11-30,,5795,,,,EPay Brazil,,,,-SPLIT-,,,,6783.0,,2338470.01
+,,,,,,Credit Memo,,2017-11-30,,5796,,,,PagSeguro,,,,-SPLIT-,,,,95.25,,2338374.76
+,,,,,,Credit Memo,,2017-11-30,,5797,,,,Blackhawk Brazil -Crossfire,,,,-SPLIT-,,,,488.32,,2337886.44
+,,,,,,Credit Memo,,2017-11-30,,5798,,,,Blackhawk Brazil -Steam,,,,-SPLIT-,,,,64883.0,,2273003.44
+,,,,,,Credit Memo,,2017-11-30,,5799,,,,PagSeguro,,,,-SPLIT-,,,,162.77,,2272840.67
+,,,,,,Credit Memo,,2017-11-30,,5800,,,,Blackhawk Brazil,,,,-SPLIT-,,,,4989.6,,2267851.07
+,,,,,,Credit Memo,,2017-11-30,,5801,,,,ePay Brazil -Steam,,,,-SPLIT-,,,,22340.5,,2245510.57
+,,,,,,Invoice,,2017-11-30,,5802,,,,Rixty Customer,,,,-SPLIT-,,6419.21,,,,2251929.78
+,,,,,,Invoice,,2017-11-30,,5803,,,,Rixty Brazil,,,,User Deposit,,14832.97,,,,2266762.75
+,,,,,,Invoice,,2017-11-30,,5804,,,,Tendencia,,,,-SPLIT-,,286.0,,,,2267048.75
+,,,,,,General Journal,,2017-11-30,,5805,,,,EPay Brazil,,,,-SPLIT-,,84010.24,,,,2351058.99
+,,,,,,Invoice,,2017-11-30,,5806,,,,TREL,,,,-SPLIT-,,6011.25,,,,2357070.24
+,,,,,,Invoice,,2017-11-30,,5807,,,,MoIP,,,,-SPLIT-,,297675.1,,,,2654745.34
+,,,,,,Invoice,,2017-11-30,,5808,,,,PagSeguro,,,,-SPLIT-,,59076.25,,,,2713821.59
+,,,,,,General Journal,,2017-11-30,,5809,,,,Blackhawk Brazil,,,,-SPLIT-,,77978.82,,,,2791800.41
+,,,,,,Invoice,,2017-11-30,,5810,,,,QIWI Brazil,,,,-SPLIT-,,660.0,,,,2792460.41
+,,,,,,General Journal,,2017-11-30,,5812,,,,InComm Brazil,,,,-SPLIT-,,25347.29,,,,2817807.7
+,,,,,,Invoice,,2017-11-30,,5813,,,,Santander,,,,-SPLIT-,,1163608.7,,,,3981416.4
+,,,,,,General Journal,,2017-11-30,,5814,,,,Blackhawk Brazil,,,,-SPLIT-,,10531.63,,,,3991948.03
+,,,,,,General Journal,,2017-11-30,,5815,,,,Blackhawk Brazil,,,,-SPLIT-,,2017514.62,,,,6009462.65
+,,,,,,Invoice,,2017-11-30,,5816,,,,EPay Brazil,,,,-SPLIT-,,25.51,,,,6009488.16
+,,,,,,Invoice,,2017-11-30,,5817,,,,RV Tecnologia,,,,-SPLIT-,,46601.5,,,,6056089.66
+,,,,,,Invoice,,2017-11-30,,5818,,,,QIWI Brazil,,,,-SPLIT-,,902.4,,,,6056992.06
+,,,,,,Invoice,,2017-11-30,,5819,,,,Rixty PIN Distributor BR,,,,User Deposit,,90238.58,,,,6147230.64
+,,,,,,Invoice,,2017-11-30,,5820,,,,Bank Deposit Brazil,,,,User Deposit,,219700.0,,,,6366930.64
+,,,,,,Invoice,,2017-11-30,,5822,,,,Cielo,,,,-SPLIT-,,41938.76,,,,6408869.4
+,,,,,,Invoice,,2017-11-30,,5823,,,,PayPal Brazil,,,,-SPLIT-,,4256.24,,,,6413125.64
+,,,,,,General Journal,,2017-11-30,,5824,,,,InComm Brazil,,,,-SPLIT-,,205035.27,,,,6618160.91
+,,,,,,Invoice,,2017-11-30,,5825,,,,ElavonBR,,,,-SPLIT-,,249274.13,,,,6867435.04
+,,,,,,General Journal,,2017-11-30,,5826,,,,EPay Brazil,,,,-SPLIT-,,225095.16,,,,7092530.2
+,,,,,,General Journal,,2017-11-30,,JE1711-3,,Ö,,Blackhawk Brazil -Crossfire,,Being reversal of account,,Unknown Expenses,,488.32,,,,7093018.52
+,,,,,,General Journal,,2017-11-30,,JE1711-4,,Ö,,Blackhawk Brazil -Steam,,Being reversal of account,,Unknown Expenses,,64883.0,,,,7157901.52
+,,,,,,General Journal,,2017-11-30,,JE1711-5,,Ö,,Blackhawk Brazil,,Being reversal of account,,Unknown Expenses,,,,488.32,,7157413.2
+,,,,,,General Journal,,2017-11-30,,JE1711-6,,Ö,,Blackhawk Brazil,,Being reversal of account,,Unknown Expenses,,,,64883.0,,7092530.2
+,,,,,,Payment,,2017-11-30,,,,,,Blackhawk Brazil,,,,Santander,,,,1666172.64,,5426357.56
+,,,,,,Payment,,2017-11-30,,,,,,Cielo,,,,Santander,,,,42524.05,,5383833.51
+,,,,,,Payment,,2017-11-30,,,,,,ElavonBR,,,,Santander,,,,154609.05,,5229224.46
+,,,,,,Payment,,2017-11-30,,,,,,EPay Brazil,,,,Santander,,,,237389.87,,4991834.59
+,,,,,,Payment,,2017-11-30,,,,,,MoIP,,,,Santander,,,,273000.0,,4718834.59
+,,,,,,Payment,,2017-11-30,,,,,,PayPal Brazil,,,,Santander,,,,6521.52,,4712313.07
+,,,,,,Payment,,2017-11-30,,,,,,QIWI Brazil,,,,Santander,,,,7288.4,,4705024.67
+,,,,,,Payment,,2017-11-30,,,,,,Bank Deposit Brazil,,,,Santander,,,,219200.0,,4485824.67
+,,,,,,Payment,,2017-11-30,,,,,,RV Tecnologia,,,,Santander,,,,39035.53,,4446789.14
+,,,,,,Payment,,2017-11-30,,,,,,Santander,,,,Santander,,,,1164913.5,,3281875.64
+,,,,,,Payment,,2017-11-30,,,,,,Tendencia,,,,Santander,,,,990.0,,3280885.64
+,,,,,,Payment,,2017-11-30,,,,,,TREL,,,,Santander,,,,6877.5,,3274008.14
+,,,,,,Payment,,2017-11-30,,,,,,PagSeguro,,,,Santander,,,,64148.62,,3209859.52
+,,,,,,Payment,,2017-11-30,,,,,,InComm Brazil,,,,Santander,,,,279757.53,,2930101.99
+,,,,,,General Journal,,2017-11-30,,JE1711-18,,Ö,,Rixty Brazil,,"Being wrongly posted MOIP, Santander, Incomm Brazil, Cielo, Elavon, Pagseguro and Rixty Pin Dist...",,User Deposit,,,,3826.42,,2926275.57
+,,,,,,General Journal,,2017-11-30,,JE1711-19,,Ö,,MoIP,,Being adjustment of missing MOIP transaction,,Prepaid Commission,,273.41,,,,2926548.98
+,,,,,,General Journal,,2017-11-30,,JE1711-20,,Ö,,Rixty PIN Distributor BR,,Being adjustment of missing Rixty PIN Distributor BR transaction,,User Deposit,,28.99,,,,2926577.97
+,,,,,,General Journal,,2017-11-30,,JE1711-21,,Ö,,Santander,,Being adjustment of missing Santander transaction,,Prepaid Commission,,2955.49,,,,2929533.46
+,,,,,,General Journal,,2017-11-30,,JE1711-22,,Ö,,InComm Brazil,,Being adjustment of missing Incomm Brazil transaction,,Prepaid Commission,,72.77,,,,2929606.23
+,,,,,,General Journal,,2017-11-30,,JE1711-23,,Ö,,Cielo,,Being adjustment of missing CIELO transaction,,Prepaid Commission,,69.22,,,,2929675.45
+,,,,,,General Journal,,2017-11-30,,JE1711-24,,Ö,,ElavonBR,,Being adjustment of missing Elavon transaction,,Prepaid Commission,,278.84,,,,2929954.29
+,,,,,,General Journal,,2017-11-30,,JE1711-25,,Ö,,PagSeguro,,Being adjustment of missing Pagseguro transaction,,Prepaid Commission,,87.12,,,,2930041.41
+,,,,,,General Journal,,2017-11-30,,JE1711-27,,Ö,,Rixty Brazil,,Being promotion fee for Nov'2017,,Promotions,,,,10975.39,,2919066.02
+,,,,,,General Journal,,2017-11-30,,JE1711-28,,Ö,,Rixty PIN Distributor BR,,Adjustment for Crossfire - Nov'17,,Revenue,,,,90267.57,,2828798.45
+,Total Accounts Receivable,,,,,,,,,,,,,,,,,,,4916156.79,,4432642.51,,2828798.45
+,Accounts Receivable BRL,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Total Accounts Receivable BRL,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Amount due by Rixty Inc,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Total Amount due by Rixty Inc,,,,,,,,,,,,,,,,,,,,,,,0.0
+,AR to be applied,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Total AR to be applied,,,,,,,,,,,,,,,,,,,,,,,0.0
+,AR to reassign,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Total AR to reassign,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Bank Deposit BR,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Total Bank Deposit BR,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Brazil Start Up,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Total Brazil Start Up,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Clearing -Account Receivable,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Total Clearing -Account Receivable,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Credit Card Deposit,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Total Credit Card Deposit,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Deposit - Other,,,,,,,,,,,,,,,,,,,,,,,1445.22
+,Total Deposit - Other,,,,,,,,,,,,,,,,,,,,,,,1445.22
+,Distributor Billing,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Total Distributor Billing,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Due Fr MOL AccessPortal Sdn Bhd,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Total Due Fr MOL AccessPortal Sdn Bhd,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Due Fr Moneybookers,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Total Due Fr Moneybookers,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Game Code Inventory,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Total Game Code Inventory,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Inventory,,,,,,,,,,,,,,,,,,,,,,,671928.48
+,,,,,,General Journal,,2017-11-30,,JE1711-8,,Ö,,,,"Blackhawk cards sold in Nov'2017- MOL/RIXTY 31.99 BRL @ 2,308 - BRL0.47",,Cost of Good Sold,,,,1707.92,,670220.56
+,,,,,,General Journal,,2017-11-30,,JE1711-9,,Ö,,,, ePay Brazil cards sold in August- CROSSFIRE 28.99 BRL @ 1 units - BRL1.38,,Cost of Good Sold,,,,1.38,,670219.18
+,,,,,,General Journal,,2017-11-30,,JE1711-10,,Ö,,,,"Epay BRAZIL - STEAM cards sold in November'17 - 52.99 BRL @ 4,200 - BRL0.47",,Cost of Good Sold,,,,3150.0,,667069.18
+,,,,,,General Journal,,2017-11-30,,JE1711-11,,Ö,,,,"Blackhawk cards sold in November'17-MOL/RIXTY 31.99 BRL @ 2,582 - BRL0.47",,Cost of Good Sold,,,,1213.54,,665855.64
+,,,,,,General Journal,,2017-11-30,,JE1711-12,,Ö,,,," Blackhawk cards sold in November'2017-STEAM 31.99 BRL @ 21,337 - BRL0.47",,Cost of Good Sold,,,,10028.39,,655827.25
+,,,,,,General Journal,,2017-11-30,,JE1711-13,,Ö,,,," Blackhawk cards sold in November'2017 -STEAM 52.99 BRL @ 27,591 - BRL0.65",,Cost of Good Sold,,,,17934.15,,637893.1
+,,,,,,General Journal,,2017-11-30,,JE1711-14,,Ö,,,, Blackhawk cards sold in November'2017-CROSSFIRE 70.99 BRL @ 112 -BRL0.64,,Cost of Good Sold,,,,71.68,,637821.42
+,,,,,,General Journal,,2017-11-30,,JE1711-15,,Ö,,,, Blackhawk cards sold in November'2017 - CROSSFIRE 28.99 BRL @ 103 - BRL0.80,,Cost of Good Sold,,,,82.4,,637739.02
+,,,,,,General Journal,,2017-11-30,,JE1711-16,,Ö,,,,INCOMM BRAZIL cards sold in November'2017- MOL/RIXTY 75.00 BRL @ 394 - BRL1.12,,Cost of Good Sold,,,,441.28,,637297.74
+,,,,,,General Journal,,2017-11-30,,JE1711-17,,Ö,,,," INCOMM BRAZIL - STEAM cards sold in Nov'2017 - 52.99 BRL @ 4,258 - BRL0.47",,Cost of Good Sold,,,,2001.26,,635296.48
+,Total Inventory,,,,,,,,,,,,,,,,,,,0.0,,36632.0,,635296.48
+,Inventory Asset,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Total Inventory Asset,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Microsoft Prepaid Codes,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Total Microsoft Prepaid Codes,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Other receivable,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Total Other receivable,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Prepaid Commission,,,,,,,,,,,,,,,,,,,,,,,14033.14
+,,,,,,Credit,,2017-11-30,,5793,,,,Dummy Offset,,,,Accounts Payable,,32.86,,,,14066.0
+,,,,,,Credit Memo,,2017-11-30,,5795,,,,EPay Brazil,,,,Accounts Receivable,,,,1197.0,,12869.0
+,,,,,,Credit Memo,,2017-11-30,,5796,,,,PagSeguro,,,,Accounts Receivable,,,,3.97,,12865.03
+,,,,,,Credit Memo,,2017-11-30,,5797,,,,Blackhawk Brazil -Crossfire,,,,Accounts Receivable,,,,66.59,,12798.44
+,,,,,,Credit Memo,,2017-11-30,,5798,,,,Blackhawk Brazil -Steam,,,,Accounts Receivable,,,,6417.0,,6381.44
+,,,,,,Credit Memo,,2017-11-30,,5799,,,,PagSeguro,,,,Accounts Receivable,,,,4.17,,6377.27
+,,,,,,Credit Memo,,2017-11-30,,5800,,,,Blackhawk Brazil,,,,Accounts Receivable,,,,680.4,,5696.87
+,,,,,,Credit Memo,,2017-11-30,,5801,,,,ePay Brazil -Steam,,,,Accounts Receivable,,,,2209.5,,3487.37
+,,,,,,Invoice,,2017-11-30,,5802,,,,Rixty Customer,,,,Accounts Receivable,,841.26,,,,4328.63
+,,,,,,Invoice,,2017-11-30,,5804,,,,Tendencia,,,,Accounts Receivable,,39.0,,,,4367.63
+,,,,,,General Journal,,2017-11-30,,5805,,,,EPay Brazil,,,,Accounts Receivable,,13625.4,,,,17993.03
+,,,,,,Invoice,,2017-11-30,,5806,,,,TREL,,,,Accounts Receivable,,858.75,,,,18851.78
+,,,,,,Invoice,,2017-11-30,,5807,,,,MoIP,,,,Accounts Receivable,,6044.01,,,,24895.79
+,,,,,,Invoice,,2017-11-30,,5808,,,,PagSeguro,,,,Accounts Receivable,,1955.94,,,,26851.73
+,,,,,,General Journal,,2017-11-30,,5809,,,,Blackhawk Brazil,,,,Accounts Receivable,,9972.0,,,,36823.73
+,,,,,,Invoice,,2017-11-30,,5810,,,,QIWI Brazil,,,,Accounts Receivable,,90.0,,,,36913.73
+,,,,,,General Journal,,2017-11-30,,5811,,,,ResearchNow Brazil,,,,-SPLIT-,,102.0,,,,37015.73
+,,,,,,General Journal,,2017-11-30,,5812,,,,InComm Brazil,,,,Accounts Receivable,,3906.22,,,,40921.95
+,,,,,,Invoice,,2017-11-30,,5813,,,,Santander,,,,Accounts Receivable,,15439.12,,,,56361.07
+,,,,,,General Journal,,2017-11-30,,5814,,,,Blackhawk Brazil,,,,Accounts Receivable,,1379.01,,,,57740.08
+,,,,,,General Journal,,2017-11-30,,5815,,,,Blackhawk Brazil,,,,Accounts Receivable,,187911.9,,,,245651.98
+,,,,,,Invoice,,2017-11-30,,5816,,,,EPay Brazil,,,,Accounts Receivable,,3.48,,,,245655.46
+,,,,,,Invoice,,2017-11-30,,5817,,,,RV Tecnologia,,,,Accounts Receivable,,3778.5,,,,249433.96
+,,,,,,Invoice,,2017-11-30,,5818,,,,QIWI Brazil,,,,Accounts Receivable,,57.6,,,,249491.56
+,,,,,,Invoice,,2017-11-30,,5822,,,,Cielo,,,,Accounts Receivable,,1084.76,,,,250576.32
+,,,,,,Invoice,,2017-11-30,,5823,,,,PayPal Brazil,,,,Accounts Receivable,,175.31,,,,250751.63
+,,,,,,General Journal,,2017-11-30,,5824,,,,InComm Brazil,,,,Accounts Receivable,,19134.0,,,,269885.63
+,,,,,,Invoice,,2017-11-30,,5825,,,,ElavonBR,,,,Accounts Receivable,,6365.43,,,,276251.06
+,,,,,,General Journal,,2017-11-30,,5826,,,,EPay Brazil,,,,Accounts Receivable,,21006.0,,,,297257.06
+,,,,,,Bill,,2017-11-30,,5827,,,,Rixty Customer {VEND},,,,Accounts Payable,,,,732.0,,296525.06
+,,,,,,Bill,,2017-11-30,,5828,,,,Rixty Brasil,,,,Accounts Payable,,,,54666.9,,241858.16
+,,,,,,Bill,,2017-11-30,,5829,,,,Rixty Mexico Customer {VEND},,,,Accounts Payable,,,,0.25,,241857.91
+,,,,,,Bill,,2017-11-30,,5830,,,,Global Games,,,,Accounts Payable,,,,62.4,,241795.51
+,,,,,,Bill,,2017-11-30,,5831,,,,Rixty Colombia Customer {VEND},,,,Accounts Payable,,,,1.18,,241794.33
+,,,,,,Bill,,2017-11-30,,5832,,,,Dummy Offset,,,,Accounts Payable,,,,215536.67,,26257.66
+,,,,,,General Journal,,2017-11-30,,JE1711-19,,Ö,,,,Being adjustment of missing MOIP transaction,,-SPLIT-,,5.58,,,,26263.24
+,,,,,,General Journal,,2017-11-30,,JE1711-21,,Ö,,,,Being adjustment of missing Santander transaction,,-SPLIT-,,45.01,,,,26308.25
+,,,,,,General Journal,,2017-11-30,,JE1711-22,,Ö,,,,Being adjustment of missing Incomm Brazil transaction,,-SPLIT-,,1.77,,,,26310.02
+,,,,,,General Journal,,2017-11-30,,JE1711-23,,Ö,,,,Being adjustment of missing CIELO transaction,,-SPLIT-,,1.77,,,,26311.79
+,,,,,,General Journal,,2017-11-30,,JE1711-24,,Ö,,,,Being adjustment of missing Elavon transaction,,-SPLIT-,,7.12,,,,26318.91
+,,,,,,General Journal,,2017-11-30,,JE1711-25,,Ö,,,,Being adjustment of missing Pagseguro transaction,,-SPLIT-,,2.88,,,,26321.79
+,Total Prepaid Commission,,,,,,,,,,,,,,,,,,,293866.68,,281578.03,,26321.79
+,Prepaid Expense,,,,,,,,,,,,,,,,,,,,,,,0.0
+,,GL Insurance,,,,,,,,,,,,,,,,,,,,,,0.0
+,,Total GL Insurance,,,,,,,,,,,,,,,,,,,,,,0.0
+,,Prepaid Expense - Other,,,,,,,,,,,,,,,,,,,,,,0.0
+,,Total Prepaid Expense - Other,,,,,,,,,,,,,,,,,,,,,,0.0
+,Total Prepaid Expense,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Prepaid Insurance,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Total Prepaid Insurance,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Prepaid Marketing Expense,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Total Prepaid Marketing Expense,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Prepaid Reseller Commission,,,,,,,,,,,,,,,,,,,,,,,4384.71
+,,,,,,General Journal,,2017-11-30,,5811,,,,ResearchNow Brazil,,,,Prepaid Commission,,,,102.0,,4282.71
+,Total Prepaid Reseller Commission,,,,,,,,,,,,,,,,,,,0.0,,102.0,,4282.71
+,Prepaid Shipping,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Total Prepaid Shipping,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Prepayment -Other,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Total Prepayment -Other,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Rixty Brazil Offset,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Total Rixty Brazil Offset,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Rixty Canada Offset A,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Total Rixty Canada Offset A,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Rixty Mexico Offset A,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Total Rixty Mexico Offset A,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Undeposited Funds,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Total Undeposited Funds,,,,,,,,,,,,,,,,,,,,,,,0.0
+,USA Plat Offset -d,,,,,,,,,,,,,,,,,,,,,,,0.0
+,,Brazil,,,,,,,,,,,,,,,,,,,,,,0.0
+,,Total Brazil,,,,,,,,,,,,,,,,,,,,,,0.0
+,,USA Plat Offset -d - Other,,,,,,,,,,,,,,,,,,,,,,0.0
+,,Total USA Plat Offset -d - Other,,,,,,,,,,,,,,,,,,,,,,0.0
+,Total USA Plat Offset -d,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Fixed Assets,,,,,,,,,,,,,,,,,,,,,,,2979.0
+,,Computer,,,,,,,,,,,,,,,,,,,,,,2799.0
+,,Total Computer,,,,,,,,,,,,,,,,,,,,,,2799.0
+,,Furniture and Equipment,,,,,,,,,,,,,,,,,,,,,,180.0
+,,Total Furniture and Equipment,,,,,,,,,,,,,,,,,,,,,,180.0
+,,Software,,,,,,,,,,,,,,,,,,,,,,0.0
+,,Total Software,,,,,,,,,,,,,,,,,,,,,,0.0
+,,Fixed Assets - Other,,,,,,,,,,,,,,,,,,,,,,0.0
+,,Total Fixed Assets - Other,,,,,,,,,,,,,,,,,,,,,,0.0
+,Total Fixed Assets,,,,,,,,,,,,,,,,,,,,,,,2979.0
+,Fixed Assets-Accum Depreciation,,,,,,,,,,,,,,,,,,,,,,,-623.42
+,,AD-Computer,,,,,,,,,,,,,,,,,,,,,,-623.42
+,,,,,,General Journal,,2017-11-30,,JE1711-30,,Ö,,,,Being depreciation for Nov'2017,,Depreciation Expense,,,,77.74,,-701.16
+,,Total AD-Computer,,,,,,,,,,,,,,,,,,0.0,,77.74,,-701.16
+,,AD-Furn & Equip,,,,,,,,,,,,,,,,,,,,,,0.0
+,,Total AD-Furn & Equip,,,,,,,,,,,,,,,,,,,,,,0.0
+,,AD-Software,,,,,,,,,,,,,,,,,,,,,,0.0
+,,Total AD-Software,,,,,,,,,,,,,,,,,,,,,,0.0
+,,Fixed Assets-Accum Depreciation - Other,,,,,,,,,,,,,,,,,,,,,,0.0
+,,Total Fixed Assets-Accum Depreciation - Other,,,,,,,,,,,,,,,,,,,,,,0.0
+,Total Fixed Assets-Accum Depreciation,,,,,,,,,,,,,,,,,,,0.0,,77.74,,-701.16
+,Intangible Assets,,,,,,,,,,,,,,,,,,,,,,,0.0
+,,Corp Organ Cost,,,,,,,,,,,,,,,,,,,,,,0.0
+,,,Corp Organ Cost-Acc Amort,,,,,,,,,,,,,,,,,,,,,0.0
+,,,Total Corp Organ Cost-Acc Amort,,,,,,,,,,,,,,,,,,,,,0.0
+,,,Corp Organ Cost - Other,,,,,,,,,,,,,,,,,,,,,0.0
+,,,Total Corp Organ Cost - Other,,,,,,,,,,,,,,,,,,,,,0.0
+,,Total Corp Organ Cost,,,,,,,,,,,,,,,,,,,,,,0.0
+,,Start Up Cost,,,,,,,,,,,,,,,,,,,,,,0.0
+,,,Start Up Cost - Acc Amort,,,,,,,,,,,,,,,,,,,,,0.0
+,,,Total Start Up Cost - Acc Amort,,,,,,,,,,,,,,,,,,,,,0.0
+,,,Start Up Cost - Other,,,,,,,,,,,,,,,,,,,,,0.0
+,,,Total Start Up Cost - Other,,,,,,,,,,,,,,,,,,,,,0.0
+,,Total Start Up Cost,,,,,,,,,,,,,,,,,,,,,,0.0
+,,Trademark,,,,,,,,,,,,,,,,,,,,,,0.0
+,,Total Trademark,,,,,,,,,,,,,,,,,,,,,,0.0
+,,Intangible Assets - Other,,,,,,,,,,,,,,,,,,,,,,0.0
+,,Total Intangible Assets - Other,,,,,,,,,,,,,,,,,,,,,,0.0
+,Total Intangible Assets,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Issuance Cost,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Total Issuance Cost,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Accounts Payable,,,,,,,,,,,,,,,,,,,,,,,-307071.75
+,,,,,,Credit,,2017-11-30,,5793,,,,Dummy Offset,,,,-SPLIT-,,39.3,,,,-307032.45
+,,,,,,Bill,,2017-11-30,,5827,,,,Rixty Customer {VEND},,,,-SPLIT-,,,,11690.28,,-318722.73
+,,,,,,Bill,,2017-11-30,,5828,,,,Rixty Brasil,,,,-SPLIT-,,0.0,,,,-318722.73
+,,,,,,Bill,,2017-11-30,,5829,,,,Rixty Mexico Customer {VEND},,,,-SPLIT-,,,,9.74,,-318732.47
+,,,,,,Bill,,2017-11-30,,5830,,,,Global Games,,,,-SPLIT-,,,,1249.86,,-319982.33
+,,,,,,Bill,,2017-11-30,,5831,,,,Rixty Colombia Customer {VEND},,,,-SPLIT-,,,,10.32,,-319992.65
+,,,,,,Bill,,2017-11-30,,5832,,,,Dummy Offset,,,,-SPLIT-,,0.0,,,,-319992.65
+,Total Accounts Payable,,,,,,,,,,,,,,,,,,,39.3,,12960.2,,-319992.65
+,Not Specified {AP},,,,,,,,,,,,,,,,,,,,,,,0.0
+,Total Not Specified {AP},,,,,,,,,,,,,,,,,,,,,,,0.0
+,Accounts Payable - Brazil,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Total Accounts Payable - Brazil,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Accrued Interest,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Total Accrued Interest,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Accrued of Expenses,,,,,,,,,,,,,,,,,,,,,,,-38250.0
+,,,,,,General Journal,,2017-11-30,,JE1711-1,,Ö,,,,Nov'2017 cash flow - General Manager Bonus,,Postage and Delivery,,24700.0,,,,-13550.0
+,,,,,,General Journal,,2017-11-30,,JE1711-29,,Ö,,,,"Being accrual of Bonus for year 2017 (R$45,900 / 12 mths)",,Bonus,,,,3825.0,,-17375.0
+,Total Accrued of Expenses,,,,,,,,,,,,,,,,,,,24700.0,,3825.0,,-17375.0
+,Accrued Promotion Expense,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Total Accrued Promotion Expense,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Accrues -Others,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Total Accrues -Others,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Amount due to Holdings,,,,,,,,,,,,,,,,,,,,,,,0.0
+,,MOL AccessPortal Sdn Bhd,,,,,,,,,,,,,,,,,,,,,,0.0
+,,Total MOL AccessPortal Sdn Bhd,,,,,,,,,,,,,,,,,,,,,,0.0
+,,MOL Online Sdn Bhd,,,,,,,,,,,,,,,,,,,,,,0.0
+,,Total MOL Online Sdn Bhd,,,,,,,,,,,,,,,,,,,,,,0.0
+,,MOL Socialpayment Sdn Bhd,,,,,,,,,,,,,,,,,,,,,,0.0
+,,Total MOL Socialpayment Sdn Bhd,,,,,,,,,,,,,,,,,,,,,,0.0
+,,Amount due to Holdings - Other,,,,,,,,,,,,,,,,,,,,,,0.0
+,,Total Amount due to Holdings - Other,,,,,,,,,,,,,,,,,,,,,,0.0
+,Total Amount due to Holdings,,,,,,,,,,,,,,,,,,,,,,,0.0
+,AR to be allocated,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Total AR to be allocated,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Bridge Financing,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Total Bridge Financing,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Clearing -Account Payable,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Total Clearing -Account Payable,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Deferred Revenue,,,,,,,,,,,,,,,,,,,,,,,0.0
+,,MOLPoints Brazil,,,,,,,,,,,,,,,,,,,,,,0.0
+,,Total MOLPoints Brazil,,,,,,,,,,,,,,,,,,,,,,0.0
+,,MOLPoints US,,,,,,,,,,,,,,,,,,,,,,0.0
+,,Total MOLPoints US,,,,,,,,,,,,,,,,,,,,,,0.0
+,,Deferred Revenue - Other,,,,,,,,,,,,,,,,,,,,,,0.0
+,,Total Deferred Revenue - Other,,,,,,,,,,,,,,,,,,,,,,0.0
+,Total Deferred Revenue,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Erronous Wire,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Total Erronous Wire,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Other Payable,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Total Other Payable,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Payroll Liabilities,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Total Payroll Liabilities,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Prepaid Reseller Cards,,,,,,,,,,,,,,,,,,,,,,,-98892.55
+,,,,,,General Journal,,2017-11-30,,5811,,,,ResearchNow Brazil,,,,Prepaid Commission,,1020.0,,,,-97872.55
+,,,,,,General Journal,,2017-11-30,,5821,,,,,,,,User Deposit,,424810.0,,,,326937.45
+,,,,,,General Journal,,2017-11-30,,JE1711-26,,Ö,,,,Being adjustment of prepaid reseller card for Steam User Redemption for Nov'2017,,Rixty USA Offset Liability,,,,424810.0,,-97872.55
+,Total Prepaid Reseller Cards,,,,,,,,,,,,,,,,,,,425830.0,,424810.0,,-97872.55
+,Promissory Note Pay - Sorom,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Total Promissory Note Pay - Sorom,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Provision for bad debt,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Total Provision for bad debt,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Rixty Canada Offset Liability,,,,,,,,,,,,,,,,,,,,,,,-330.14
+,Total Rixty Canada Offset Liability,,,,,,,,,,,,,,,,,,,,,,,-330.14
+,Rixty Mexico Offset Liability,,,,,,,,,,,,,,,,,,,,,,,-453.4
+,Total Rixty Mexico Offset Liability,,,,,,,,,,,,,,,,,,,,,,,-453.4
+,Rixty Offset Liability,,,,,,,,,,,,,,,,,,,,,,,-124398.81
+,Total Rixty Offset Liability,,,,,,,,,,,,,,,,,,,,,,,-124398.81
+,Rixty USA Offset Liability,,,,,,,,,,,,,,,,,,,,,,,-1280123.39
+,,,,,,Credit,,2017-11-30,,5793,,,,Dummy Offset,,,,Accounts Payable,,1153.24,,,,-1278970.15
+,,,,,,Bill,,2017-11-30,,5832,,,,Dummy Offset,,,,Accounts Payable,,,,3352293.14,,-4631263.29
+,,,,,,General Journal,,2017-11-30,,JE1711-2,,Ö,,,,Net Payout to Rixty Inc for Nov'17,,-SPLIT-,,2903994.7,,,,-1727268.59
+,,,,,,General Journal,,2017-11-30,,JE1711-26,,Ö,,,,Being adjustment of prepaid reseller card for Steam User Redemption for Nov'2017,,Prepaid Reseller Cards,,424810.0,,,,-1302458.59
+,,,,,,General Journal,,2017-11-30,,JE1711-31,,Ö,,,,Being adjustment for spending steam activity at Rixty Brazil due to database lock for Nov'17,,Revenue,,,,607921.6,,-1910380.19
+,Total Rixty USA Offset Liability,,,,,,,,,,,,,,,,,,,3329957.94,,3960214.74,,-1910380.19
+,Rixty USA Plat Offset Liability,,,,,,,,,,,,,,,,,,,,,,,-1318702.85
+,,,,,,Credit,,2017-11-30,,5793,,,,Dummy Offset,,,,Accounts Payable,,44.56,,,,-1318658.29
+,,,,,,Bill,,2017-11-30,,5832,,,,Dummy Offset,,,,Accounts Payable,,,,265753.56,,-1584411.85
+,,,,,,General Journal,,2017-11-30,,JE1711-2,,Ö,,,,Net Payout to Rixty Inc for Nov'17,,Rixty USA Offset Liability,,1318702.85,,,,-265709.0
+,,,,,,General Journal,,2017-11-30,,JE1711-31,,Ö,,,,Being adjustment for spending steam activity at Rixty Brazil due to database lock for Nov'17,,Revenue,,,,62173.8,,-327882.8
+,,,,,,General Journal,,2017-11-30,,JE1711-32,,Ö,,,,Being adjustment of Rixty Brazil Pin revenue for Nov'17 from Brazil to US,,Revenue,,,,340491.59,,-668374.39
+,Total Rixty USA Plat Offset Liability,,,,,,,,,,,,,,,,,,,1318747.41,,668418.95,,-668374.39
+,Sales Tax Payable,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Total Sales Tax Payable,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Taxes to Be Paid,,,,,,,,,,,,,,,,,,,,,,,-13437.32
+,,,,,,General Journal,,2017-11-30,,JE1711-1,,Ö,,,,-MULTIPLE-,,Postage and Delivery,,24768.7,,,,11331.38
+,,,,,,General Journal,,2017-11-30,,JE1711-35,,Ö,,,,Tax provision for November'17,,ISS -Income tax expenses,,,,84519.17,,-73187.79
+,Total Taxes to Be Paid,,,,,,,,,,,,,,,,,,,24768.7,,84519.17,,-73187.79
+,User Deposit,,,,,,,,,,,,,,,,,,,,,,,-806125.63
+,,User Deposit -PayU Fraud Acc,,,,,,,,,,,,,,,,,,,,,,1154.63
+,,Total User Deposit -PayU Fraud Acc,,,,,,,,,,,,,,,,,,,,,,1154.63
+,,User Deposit - Other,,,,,,,,,,,,,,,,,,,,,,-807280.26
+,,,,,,Credit,,2017-11-30,,5793,,,,Dummy Offset,,,,Accounts Payable,,,,1370.79,,-808651.05
+,,,,,,Credit Memo,,2017-11-30,,5794,,,,Rixty Brazil,,,,Accounts Receivable,,31.16,,,,-808619.89
+,,,,,,Credit Memo,,2017-11-30,,5795,,,,EPay Brazil,,,,Accounts Receivable,,7980.0,,,,-800639.89
+,,,,,,Credit Memo,,2017-11-30,,5796,,,,PagSeguro,,,,Accounts Receivable,,99.22,,,,-800540.67
+,,,,,,Credit Memo,,2017-11-30,,5797,,,,Blackhawk Brazil -Crossfire,,,,Accounts Receivable,,554.91,,,,-799985.76
+,,,,,,Credit Memo,,2017-11-30,,5798,,,,Blackhawk Brazil -Steam,,,,Accounts Receivable,,71300.0,,,,-728685.76
+,,,,,,Credit Memo,,2017-11-30,,5799,,,,PagSeguro,,,,Accounts Receivable,,166.94,,,,-728518.82
+,,,,,,Credit Memo,,2017-11-30,,5800,,,,Blackhawk Brazil,,,,Accounts Receivable,,5670.0,,,,-722848.82
+,,,,,,Credit Memo,,2017-11-30,,5801,,,,ePay Brazil -Steam,,,,Accounts Receivable,,24550.0,,,,-698298.82
+,,,,,,Invoice,,2017-11-30,,5802,,,,Rixty Customer,,,,Accounts Receivable,,,,7260.47,,-705559.29
+,,,,,,Invoice,,2017-11-30,,5803,,,,Rixty Brazil,,,,Accounts Receivable,,,,14832.97,,-720392.26
+,,,,,,Invoice,,2017-11-30,,5804,,,,Tendencia,,,,Accounts Receivable,,,,325.0,,-720717.26
+,,,,,,General Journal,,2017-11-30,,5805,,,,EPay Brazil,,,,Accounts Receivable,,,,94300.0,,-815017.26
+,,,,,,Invoice,,2017-11-30,,5806,,,,TREL,,,,Accounts Receivable,,,,6870.0,,-821887.26
+,,,,,,Invoice,,2017-11-30,,5807,,,,MoIP,,,,Accounts Receivable,,,,303719.11,,-1125606.37
+,,,,,,Invoice,,2017-11-30,,5808,,,,PagSeguro,,,,Accounts Receivable,,,,61032.19,,-1186638.56
+,,,,,,General Journal,,2017-11-30,,5809,,,,Blackhawk Brazil,,,,Accounts Receivable,,,,83100.0,,-1269738.56
+,,,,,,Invoice,,2017-11-30,,5810,,,,QIWI Brazil,,,,Accounts Receivable,,,,750.0,,-1270488.56
+,,,,,,General Journal,,2017-11-30,,5811,,,,ResearchNow Brazil,,,,Prepaid Commission,,,,1020.0,,-1271508.56
+,,,,,,General Journal,,2017-11-30,,5812,,,,InComm Brazil,,,,Accounts Receivable,,,,27901.59,,-1299410.15
+,,,,,,Invoice,,2017-11-30,,5813,,,,Santander,,,,Accounts Receivable,,,,1179047.82,,-2478457.97
+,,,,,,General Journal,,2017-11-30,,5814,,,,Blackhawk Brazil,,,,Accounts Receivable,,,,11491.76,,-2489949.73
+,,,,,,General Journal,,2017-11-30,,5815,,,,Blackhawk Brazil,,,,Accounts Receivable,,,,2087910.0,,-4577859.73
+,,,,,,Invoice,,2017-11-30,,5816,,,,EPay Brazil,,,,Accounts Receivable,,,,28.99,,-4577888.72
+,,,,,,Invoice,,2017-11-30,,5817,,,,RV Tecnologia,,,,Accounts Receivable,,,,50380.0,,-4628268.72
+,,,,,,Invoice,,2017-11-30,,5818,,,,QIWI Brazil,,,,Accounts Receivable,,,,960.0,,-4629228.72
+,,,,,,Invoice,,2017-11-30,,5819,,,,Rixty PIN Distributor BR,,,,Accounts Receivable,,,,90238.58,,-4719467.3
+,,,,,,Invoice,,2017-11-30,,5820,,,,Bank Deposit Brazil,,,,Accounts Receivable,,,,219700.0,,-4939167.3
+,,,,,,General Journal,,2017-11-30,,5821,,,,,,,,Prepaid Reseller Cards,,,,424810.0,,-5363977.3
+,,,,,,Invoice,,2017-11-30,,5822,,,,Cielo,,,,Accounts Receivable,,,,43023.52,,-5407000.82
+,,,,,,Invoice,,2017-11-30,,5823,,,,PayPal Brazil,,,,Accounts Receivable,,,,4431.55,,-5411432.37
+,,,,,,General Journal,,2017-11-30,,5824,,,,InComm Brazil,,,,Accounts Receivable,,,,212600.0,,-5624032.37
+,,,,,,Invoice,,2017-11-30,,5825,,,,ElavonBR,,,,Accounts Receivable,,,,255639.56,,-5879671.93
+,,,,,,General Journal,,2017-11-30,,5826,,,,EPay Brazil,,,,Accounts Receivable,,,,233400.0,,-6113071.93
+,,,,,,Bill,,2017-11-30,,5827,,,,Rixty Customer {VEND},,,,Accounts Payable,,12422.28,,,,-6100649.65
+,,,,,,Bill,,2017-11-30,,5828,,,,Rixty Brasil,,,,Accounts Payable,,690820.57,,,,-5409829.08
+,,,,,,Bill,,2017-11-30,,5829,,,,Rixty Mexico Customer {VEND},,,,Accounts Payable,,9.99,,,,-5409819.09
+,,,,,,Bill,,2017-11-30,,5830,,,,Global Games,,,,Accounts Payable,,1467.74,,,,-5408351.35
+,,,,,,Bill,,2017-11-30,,5831,,,,Rixty Colombia Customer {VEND},,,,Accounts Payable,,11.5,,,,-5408339.85
+,,,,,,Bill,,2017-11-30,,5832,,,,Dummy Offset,,,,Accounts Payable,,4415829.85,,,,-992510.0
+,,,,,,General Journal,,2017-11-30,,JE1711-18,,Ö,,,,"Being wrongly posted MOIP, Santander, Incomm Brazil, Cielo, Elavon, Pagseguro and Rixty Pin Dist...",,Accounts Receivable,,3826.42,,,,-988683.58
+,,,,,,General Journal,,2017-11-30,,JE1711-19,,Ö,,,,Being adjustment of missing MOIP transaction,,Prepaid Commission,,,,278.99,,-988962.57
+,,,,,,General Journal,,2017-11-30,,JE1711-20,,Ö,,Rixty PIN Distributor BR,,Being adjustment of missing Rixty PIN Distributor BR transaction,,Accounts Receivable,,,,28.99,,-988991.56
+,,,,,,General Journal,,2017-11-30,,JE1711-21,,Ö,,,,Being adjustment of missing Santander transaction,,Prepaid Commission,,,,3000.5,,-991992.06
+,,,,,,General Journal,,2017-11-30,,JE1711-22,,Ö,,,,Being adjustment of missing Incomm Brazil transaction,,Prepaid Commission,,,,70.99,,-992063.05
+,,,,,,General Journal,,2017-11-30,,JE1711-23,,Ö,,,,Being adjustment of missing CIELO transaction,,Prepaid Commission,,,,70.99,,-992134.04
+,,,,,,General Journal,,2017-11-30,,JE1711-24,,Ö,,,,Being adjustment of missing Elavon transaction,,Prepaid Commission,,,,285.96,,-992420.0
+,,,,,,General Journal,,2017-11-30,,JE1711-25,,Ö,,,,Being adjustment of missing Pagseguro transaction,,Prepaid Commission,,,,90.0,,-992510.0
+,,Total User Deposit - Other,,,,,,,,,,,,,,,,,,5234740.58,,5419970.32,,-992510.0
+,Total User Deposit,,,,,,,,,,,,,,,,,,,5234740.58,,5419970.32,,-991355.37
+,Conv Note Michael Berolzheimer,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Total Conv Note Michael Berolzheimer,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Conv Note Pay,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Total Conv Note Pay,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Conv Note Pay - Ferguson,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Total Conv Note Pay - Ferguson,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Conv Note Pay - Sorom,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Total Conv Note Pay - Sorom,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Loan from Rixty USA,,,,,,,,,,,,,,,,,,,,,,,-107691.31
+,,,,,,General Journal,,2017-11-30,,JE1711-33,,Ö,,,,Reversal of unrealised forex loss in Oct'2017,,Unrealized Exchange Gain / Loss,,44099.35,,,,-63591.96
+,,,,,,General Journal,,2017-11-30,,JE1711-34,,Ö,,,,Unrealised forex loss in Nov'2017,,Unrealized Exchange Gain / Loss,,,,42698.76,,-106290.72
+,Total Loan from Rixty USA,,,,,,,,,,,,,,,,,,,44099.35,,42698.76,,-106290.72
+,Capital Stock,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Total Capital Stock,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Dividends Paid,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Total Dividends Paid,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Opening Balance Equity,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Total Opening Balance Equity,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Paid up capital,,,,,,,,,,,,,,,,,,,,,,,-228907.02
+,Total Paid up capital,,,,,,,,,,,,,,,,,,,,,,,-228907.02
+,Retained Earnings,,,,,,,,,,,,,,,,,,,,,,,533681.1
+,Total Retained Earnings,,,,,,,,,,,,,,,,,,,,,,,533681.1
+,ChitCard Revenue,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Total ChitCard Revenue,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Contra Revenue,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Total Contra Revenue,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Discount,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Total Discount,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Foreign Transaction Fee,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Total Foreign Transaction Fee,,,,,,,,,,,,,,,,,,,,,,,0.0
+,GreenDot,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Total GreenDot,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Income,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Total Income,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Income from Rounding,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Total Income from Rounding,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Revenue,,,,,,,,,,,,,,,,,,,,,,,-2741614.3
+,,,,,,Credit,,2017-11-30,,5793,,,,Dummy Offset,,Revenue,,Accounts Payable,,123.68,,,,-2741490.62
+,,,,,,Bill,,2017-11-30,,5828,,,,Rixty Brasil,,Revenue,,Accounts Payable,,,,690820.57,,-3432311.19
+,,,,,,Bill,,2017-11-30,,5830,,,,Global Games,,Revenue,,Accounts Payable,,,,217.88,,-3432529.07
+,,,,,,Bill,,2017-11-30,,5832,,,,Dummy Offset,,Revenue,,Accounts Payable,,,,794938.32,,-4227467.39
+,,,,,,General Journal,,2017-11-30,,JE1711-28,,Ö,,,,Adjustment for Crossfire - Nov'17,,Accounts Receivable,,90267.57,,,,-4137199.82
+,,,,,,General Journal,,2017-11-30,,JE1711-31,,Ö,,,,Being adjustment for spending steam activity at Rixty Brazil due to database lock for Nov'17,,-SPLIT-,,670095.4,,,,-3467104.42
+,,,,,,General Journal,,2017-11-30,,JE1711-32,,Ö,,,,Being adjustment of Rixty Brazil Pin revenue for Nov'17 from Brazil to US,,Rixty USA Plat Offset Liability,,340491.59,,,,-3126612.83
+,Total Revenue,,,,,,,,,,,,,,,,,,,1100978.24,,1485976.77,,-3126612.83
+,Revenue - Game,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Total Revenue - Game,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Rixty Canada Offset,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Total Rixty Canada Offset,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Rixty Mexico Offset,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Total Rixty Mexico Offset,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Rixty Offset,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Total Rixty Offset,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Social Network Pmt Gateway,,,,,,,,,,,,,,,,,,,,,,,0.0
+,,Provider - API,,,,,,,,,,,,,,,,,,,,,,0.0
+,,Total Provider - API,,,,,,,,,,,,,,,,,,,,,,0.0
+,,Provider - Facebook Credit,,,,,,,,,,,,,,,,,,,,,,0.0
+,,Total Provider - Facebook Credit,,,,,,,,,,,,,,,,,,,,,,0.0
+,,Social Network Pmt Gateway - Other,,,,,,,,,,,,,,,,,,,,,,0.0
+,,Total Social Network Pmt Gateway - Other,,,,,,,,,,,,,,,,,,,,,,0.0
+,Total Social Network Pmt Gateway,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Surcharge Revenue,,,,,,,,,,,,,,,,,,,,,,,-996916.49
+,,,,,,Credit,,2017-11-30,,5793,,,,Dummy Offset,,,,Accounts Payable,,10.01,,,,-996906.48
+,,,,,,General Journal,,2017-11-30,,5805,,,,EPay Brazil,,,,Accounts Receivable,,,,3335.64,,-1000242.12
+,,,,,,General Journal,,2017-11-30,,5809,,,,Blackhawk Brazil,,,,Accounts Receivable,,,,4850.82,,-1005092.94
+,,,,,,General Journal,,2017-11-30,,5812,,,,InComm Brazil,,,,Accounts Receivable,,,,1351.92,,-1006444.86
+,,,,,,General Journal,,2017-11-30,,5814,,,,Blackhawk Brazil,,,,Accounts Receivable,,,,418.88,,-1006863.74
+,,,,,,General Journal,,2017-11-30,,5815,,,,Blackhawk Brazil,,,,Accounts Receivable,,,,117516.52,,-1124380.26
+,,,,,,General Journal,,2017-11-30,,5824,,,,InComm Brazil,,,,Accounts Receivable,,,,11569.27,,-1135949.53
+,,,,,,General Journal,,2017-11-30,,5826,,,,EPay Brazil,,,,Accounts Receivable,,,,12701.16,,-1148650.69
+,,,,,,Bill,,2017-11-30,,5832,,,,Dummy Offset,,,,Accounts Payable,,,,2844.83,,-1151495.52
+,,,,,,General Journal,,2017-11-30,,JE1711-22,,Ö,,,,Being adjustment of missing Incomm Brazil transaction,,Prepaid Commission,,,,3.55,,-1151499.07
+,Total Surcharge Revenue,,,,,,,,,,,,,,,,,,,10.01,,154592.59,,-1151499.07
+,USA Plat Offset,,,,,,,,,,,,,,,,,,,,,,,0.0
+,,Brazil,,,,,,,,,,,,,,,,,,,,,,0.0
+,,Total Brazil,,,,,,,,,,,,,,,,,,,,,,0.0
+,,Canada,,,,,,,,,,,,,,,,,,,,,,0.0
+,,Total Canada,,,,,,,,,,,,,,,,,,,,,,0.0
+,,Mexico,,,,,,,,,,,,,,,,,,,,,,0.0
+,,Total Mexico,,,,,,,,,,,,,,,,,,,,,,0.0
+,,USA Plat Offset - Other,,,,,,,,,,,,,,,,,,,,,,0.0
+,,Total USA Plat Offset - Other,,,,,,,,,,,,,,,,,,,,,,0.0
+,Total USA Plat Offset,,,,,,,,,,,,,,,,,,,,,,,0.0
+,VirtualCard Revenue,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Total VirtualCard Revenue,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Commission Expense,,,,,,,,,,,,,,,,,,,,,,,2156655.23
+,,,,,,Credit,,2017-11-30,,5793,,,,Dummy Offset,,Commission Expense,,Accounts Payable,,,,32.86,,2156622.37
+,,,,,,Bill,,2017-11-30,,5828,,,,Rixty Brasil,,Commission Expense,,Accounts Payable,,54666.9,,,,2211289.27
+,,,,,,Bill,,2017-11-30,,5830,,,,Global Games,,Commission Expense,,Accounts Payable,,62.4,,,,2211351.67
+,,,,,,Bill,,2017-11-30,,5832,,,,Dummy Offset,,Commission Expense,,Accounts Payable,,215536.67,,,,2426888.34
+,,,,,,General Journal,,2017-11-30,,JE1711-1,,Ö,,,,Nov'2017 cash flow - Santander Boleto Fee,,Postage and Delivery,,0.0,,,,2426888.34
+,Total Commission Expense,,,,,,,,,,,,,,,,,,,270265.97,,32.86,,2426888.34
+,Cost of Good Sold,,,,,,,,,,,,,,,,,,,,,,,238636.47
+,,,,,,General Journal,,2017-11-30,,JE1711-8,,Ö,,,,"Blackhawk cards sold in Nov'2017- MOL/RIXTY 31.99 BRL @ 2,308 - BRL0.47",,Inventory,,1707.92,,,,240344.39
+,,,,,,General Journal,,2017-11-30,,JE1711-9,,Ö,,,, ePay Brazil cards sold in August- CROSSFIRE 28.99 BRL @ 1 units - BRL1.38,,Inventory,,1.38,,,,240345.77
+,,,,,,General Journal,,2017-11-30,,JE1711-10,,Ö,,,,"Epay BRAZIL - STEAM cards sold in November'17 - 52.99 BRL @ 4,200 - BRL0.47",,Inventory,,3150.0,,,,243495.77
+,,,,,,General Journal,,2017-11-30,,JE1711-11,,Ö,,,,"Blackhawk cards sold in November'17- MOL/RIXTY 31.99 BRL @ 2,582 - BRL0.47",,Inventory,,1213.54,,,,244709.31
+,,,,,,General Journal,,2017-11-30,,JE1711-12,,Ö,,,," Blackhawk cards sold in November'2017- STEAM 31.99 BRL @ 21,337 - BRL0.47",,Inventory,,10028.39,,,,254737.7
+,,,,,,General Journal,,2017-11-30,,JE1711-13,,Ö,,,," Blackhawk cards sold in November'2017- STEAM 52.99 BRL @ 27,591 - BRL0.65",,Inventory,,17934.15,,,,272671.85
+,,,,,,General Journal,,2017-11-30,,JE1711-14,,Ö,,,, Blackhawk cards sold in November'2017- CROSSFIRE 70.99 BRL @ 112 -BRL0.64,,Inventory,,71.68,,,,272743.53
+,,,,,,General Journal,,2017-11-30,,JE1711-15,,Ö,,,, Blackhawk cards sold in November'2017- CROSSFIRE 28.99 BRL @ 103 - BRL0.80,,Inventory,,82.4,,,,272825.93
+,,,,,,General Journal,,2017-11-30,,JE1711-16,,Ö,,,, INCOMM BRAZIL cards sold in November'2017- MOL/RIXTY 75.00 BRL @ 394 - BRL1.12,,Inventory,,441.28,,,,273267.21
+,,,,,,General Journal,,2017-11-30,,JE1711-17,,Ö,,,," INCOMM BRAZIL - STEAM cards sold in Nov'2017 - 52.99 BRL @ 4,258 - BRL0.47",,Inventory,,2001.26,,,,275268.47
+,Total Cost of Good Sold,,,,,,,,,,,,,,,,,,,36632.0,,0.0,,275268.47
+,Cost of Goods Sold,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Total Cost of Goods Sold,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Cost of Goods Sold-Distribution,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Total Cost of Goods Sold-Distribution,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Cost of Goods Sold - Game,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Total Cost of Goods Sold - Game,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Cost of Goods Sold -Domain Name,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Total Cost of Goods Sold -Domain Name,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Game Code COGS,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Total Game Code COGS,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Production Expense,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Total Production Expense,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Shipping Cost,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Total Shipping Cost,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Advertising and Promotion,,,,,,,,,,,,,,,,,,,,,,,27544.45
+,Total Advertising and Promotion,,,,,,,,,,,,,,,,,,,,,,,27544.45
+,Automobile Expense,,,,,,,,,,,,,,,,,,,,,,,18.0
+,,Gas,,,,,,,,,,,,,,,,,,,,,,18.0
+,,Total Gas,,,,,,,,,,,,,,,,,,,,,,18.0
+,,Tolls and Parking,,,,,,,,,,,,,,,,,,,,,,0.0
+,,Total Tolls and Parking,,,,,,,,,,,,,,,,,,,,,,0.0
+,,Automobile Expense - Other,,,,,,,,,,,,,,,,,,,,,,0.0
+,,Total Automobile Expense - Other,,,,,,,,,,,,,,,,,,,,,,0.0
+,Total Automobile Expense,,,,,,,,,,,,,,,,,,,,,,,18.0
+,Bad Debt Expenses,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Total Bad Debt Expenses,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Bank Service Charges,,,,,,,,,,,,,,,,,,,,,,,724.42
+,,,,,,General Journal,,2017-11-30,,JE1711-1,,Ö,,,,Nov'2017 cash flow,,Postage and Delivery,,59.76,,,,784.18
+,Total Bank Service Charges,,,,,,,,,,,,,,,,,,,59.76,,0.0,,784.18
+,Channel Cost,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Total Channel Cost,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Commissions,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Total Commissions,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Computer and Internet Expenses,,,,,,,,,,,,,,,,,,,,,,,727.55
+,Total Computer and Internet Expenses,,,,,,,,,,,,,,,,,,,,,,,727.55
+,Consulting,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Total Consulting,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Contract labor,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Total Contract labor,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Depreciation Expense,,,,,,,,,,,,,,,,,,,,,,,623.42
+,,,,,,General Journal,,2017-11-30,,JE1711-30,,Ö,,,,Being depreciation for Nov'2017,,AD-Computer,,77.74,,,,701.16
+,Total Depreciation Expense,,,,,,,,,,,,,,,,,,,77.74,,0.0,,701.16
+,Dues and Subscriptions,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Total Dues and Subscriptions,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Energy and taxes,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Total Energy and taxes,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Fraud Loss,,,,,,,,,,,,,,,,,,,,,,,175.84
+,Total Fraud Loss,,,,,,,,,,,,,,,,,,,,,,,175.84
+,Fraud Loss -Previous Year,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Total Fraud Loss -Previous Year,,,,,,,,,,,,,,,,,,,,,,,0.0
+,General expense,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Total General expense,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Gifts,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Total Gifts,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Income Tax Expense,,,,,,,,,,,,,,,,,,,,,,,679457.04
+,,CSLL -Income tax expenses,,,,,,,,,,,,,,,,,,,,,,123174.82
+,,,,,,General Journal,,2017-11-30,,JE1711-35,,Ö,,,,Tax provision for November'17 -CSLL,,ISS -Income tax expenses,,15825.77,,,,139000.59
+,,Total CSLL -Income tax expenses,,,,,,,,,,,,,,,,,,15825.77,,0.0,,139000.59
+,,Income Tax Expenses - TFE,,,,,,,,,,,,,,,,,,,,,,152.46
+,,Total Income Tax Expenses - TFE,,,,,,,,,,,,,,,,,,,,,,152.46
+,,IOF - Taxes on money transfer,,,,,,,,,,,,,,,,,,,,,,73884.08
+,,,,,,General Journal,,2017-11-30,,JE1711-1,,Ö,,,,Nov'2017 cash flow - Taxes on Local Revenues -IOF,,Postage and Delivery,,18311.28,,,,92195.36
+,,Total IOF - Taxes on money transfer,,,,,,,,,,,,,,,,,,18311.28,,0.0,,92195.36
+,,IR Witholding Tax -Income tax,,,,,,,,,,,,,,,,,,,,,,0.0
+,,Total IR Witholding Tax -Income tax,,,,,,,,,,,,,,,,,,,,,,0.0
+,,IRPJ - Income tax expenses,,,,,,,,,,,,,,,,,,,,,,304974.33
+,,,,,,General Journal,,2017-11-30,,JE1711-35,,Ö,,,,Tax provision for November'17 - IR (IRPJ),,ISS -Income tax expenses,,41662.18,,,,346636.51
+,,Total IRPJ - Income tax expenses,,,,,,,,,,,,,,,,,,41662.18,,0.0,,346636.51
+,,IRRF,,,,,,,,,,,,,,,,,,,,,,233.44
+,,Total IRRF,,,,,,,,,,,,,,,,,,,,,,233.44
+,,ISS -Income tax expenses,,,,,,,,,,,,,,,,,,,,,,187004.66
+,,,,,,General Journal,,2017-11-30,,JE1711-35,,Ö,,,,Tax provision for November'17 - ISS,,-SPLIT-,,27009.21,,,,214013.87
+,,Total ISS -Income tax expenses,,,,,,,,,,,,,,,,,,27009.21,,0.0,,214013.87
+,,PCC,,,,,,,,,,,,,,,,,,,,,,0.0
+,,Total PCC,,,,,,,,,,,,,,,,,,,,,,0.0
+,,PIS/COFFINS -Income tax expense,,,,,,,,,,,,,,,,,,,,,,-9966.75
+,,,,,,General Journal,,2017-11-30,,JE1711-35,,Ö,,,,Tax provision for November'17 -PIS & COFINS,,ISS -Income tax expenses,,22.01,,,,-9944.74
+,,Total PIS/COFFINS -Income tax expense,,,,,,,,,,,,,,,,,,22.01,,0.0,,-9944.74
+,,Income Tax Expense - Other,,,,,,,,,,,,,,,,,,,,,,0.0
+,,Total Income Tax Expense - Other,,,,,,,,,,,,,,,,,,,,,,0.0
+,Total Income Tax Expense,,,,,,,,,,,,,,,,,,,102830.45,,0.0,,782287.49
+,Incorporation Fee,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Total Incorporation Fee,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Insurance Expense,,,,,,,,,,,,,,,,,,,,,,,3807.19
+,Total Insurance Expense,,,,,,,,,,,,,,,,,,,,,,,3807.19
+,Interest Expense,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Total Interest Expense,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Licenses and Fees,,,,,,,,,,,,,,,,,,,,,,,30.0
+,Total Licenses and Fees,,,,,,,,,,,,,,,,,,,,,,,30.0
+,Marketing,,,,,,,,,,,,,,,,,,,,,,,190960.97
+,,Advertising,,,,,,,,,,,,,,,,,,,,,,30401.48
+,,,,,,General Journal,,2017-11-30,,JE1711-1,,Ö,,,,Nov'2017 cash flow - Facebook management,,Postage and Delivery,,1500.0,,,,31901.48
+,,Total Advertising,,,,,,,,,,,,,,,,,,1500.0,,0.0,,31901.48
+,,Email Marketing,,,,,,,,,,,,,,,,,,,,,,0.0
+,,Total Email Marketing,,,,,,,,,,,,,,,,,,,,,,0.0
+,,Entry Fee,,,,,,,,,,,,,,,,,,,,,,1898.5
+,,Total Entry Fee,,,,,,,,,,,,,,,,,,,,,,1898.5
+,,GreenDot Promotions,,,,,,,,,,,,,,,,,,,,,,0.0
+,,Total GreenDot Promotions,,,,,,,,,,,,,,,,,,,,,,0.0
+,,PR Expenses,,,,,,,,,,,,,,,,,,,,,,2665.5
+,,Total PR Expenses,,,,,,,,,,,,,,,,,,,,,,2665.5
+,,Promotions,,,,,,,,,,,,,,,,,,,,,,119502.64
+,,,,,,General Journal,,2017-11-30,,JE1711-1,,Ö,,,,Nov'2017 cash flow - Prizes for Rixty CrossFire Black Friday Sweepstakes,,Postage and Delivery,,5116.0,,,,124618.64
+,,,,,,General Journal,,2017-11-30,,JE1711-27,,Ö,,,,Being promotion fee for Nov'2017,,Accounts Receivable,,10975.39,,,,135594.03
+,,Total Promotions,,,,,,,,,,,,,,,,,,16091.39,,0.0,,135594.03
+,,Show Materials,,,,,,,,,,,,,,,,,,,,,,36263.76
+,,Total Show Materials,,,,,,,,,,,,,,,,,,,,,,36263.76
+,,Testing Fee,,,,,,,,,,,,,,,,,,,,,,29.97
+,,Total Testing Fee,,,,,,,,,,,,,,,,,,,,,,29.97
+,,Travel,,,,,,,,,,,,,,,,,,,,,,199.12
+,,,Airfare,,,,,,,,,,,,,,,,,,,,,0.0
+,,,Total Airfare,,,,,,,,,,,,,,,,,,,,,0.0
+,,,Ground Transportation,,,,,,,,,,,,,,,,,,,,,178.12
+,,,Total Ground Transportation,,,,,,,,,,,,,,,,,,,,,178.12
+,,,Meals,,,,,,,,,,,,,,,,,,,,,0.0
+,,,Total Meals,,,,,,,,,,,,,,,,,,,,,0.0
+,,,Mileage,,,,,,,,,,,,,,,,,,,,,21.0
+,,,Total Mileage,,,,,,,,,,,,,,,,,,,,,21.0
+,,,Travel - Other,,,,,,,,,,,,,,,,,,,,,0.0
+,,,Total Travel - Other,,,,,,,,,,,,,,,,,,,,,0.0
+,,Total Travel,,,,,,,,,,,,,,,,,,,,,,199.12
+,,Marketing - Other,,,,,,,,,,,,,,,,,,,,,,0.0
+,,Total Marketing - Other,,,,,,,,,,,,,,,,,,,,,,0.0
+,Total Marketing,,,,,,,,,,,,,,,,,,,17591.39,,0.0,,208552.36
+,Meals and Entertainment,,,,,,,,,,,,,,,,,,,,,,,138.46
+,Total Meals and Entertainment,,,,,,,,,,,,,,,,,,,,,,,138.46
+,Miscellaneous Expense,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Total Miscellaneous Expense,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Office Expense,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Total Office Expense,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Office Supplies,,,,,,,,,,,,,,,,,,,,,,,563.32
+,Total Office Supplies,,,,,,,,,,,,,,,,,,,,,,,563.32
+,Payroll,,,,,,,,,,,,,,,,,,,,,,,182281.54
+,,Bonus,,,,,,,,,,,,,,,,,,,,,,38250.0
+,,,,,,General Journal,,2017-11-30,,JE1711-29,,Ö,,,,"Being accrual of Bonus for year 2017 (R$45,900 / 12 mths)",,Accrued of Expenses,,3825.0,,,,42075.0
+,,Total Bonus,,,,,,,,,,,,,,,,,,3825.0,,0.0,,42075.0
+,,Employee Benefits,,,,,,,,,,,,,,,,,,,,,,4377.4
+,,,Food Voucher,,,,,,,,,,,,,,,,,,,,,4377.4
+,,,,,,General Journal,,2017-11-30,,JE1711-1,,Ö,,,,Nov'2017 cash flow - Food voucher,,Postage and Delivery,,447.92,,,,4825.32
+,,,Total Food Voucher,,,,,,,,,,,,,,,,,447.92,,0.0,,4825.32
+,,,Employee Benefits - Other,,,,,,,,,,,,,,,,,,,,,0.0
+,,,Total Employee Benefits - Other,,,,,,,,,,,,,,,,,,,,,0.0
+,,Total Employee Benefits,,,,,,,,,,,,,,,,,,447.92,,0.0,,4825.32
+,,Payroll Expenses,,,,,,,,,,,,,,,,,,,,,,111970.2
+,,,,,,General Journal,,2017-11-30,,JE1711-1,,Ö,,,,-MULTIPLE-,,Postage and Delivery,,30621.83,,,,142592.03
+,,Total Payroll Expenses,,,,,,,,,,,,,,,,,,30621.83,,0.0,,142592.03
+,,Payroll Tax Expenses,,,,,,,,,,,,,,,,,,,,,,27683.94
+,,,FGTS - Taxes on payroll,,,,,,,,,,,,,,,,,,,,,3816.47
+,,,,,,General Journal,,2017-11-30,,JE1711-1,,Ö,,,,Nov'2017 cash flow - Taxes on Local Revenues -FGTS,,Postage and Delivery,,379.49,,,,4195.96
+,,,Total FGTS - Taxes on payroll,,,,,,,,,,,,,,,,,379.49,,0.0,,4195.96
+,,,INSS-Taxes on payroll,,,,,,,,,,,,,,,,,,,,,21291.83
+,,,,,,General Journal,,2017-11-30,,JE1711-1,,Ö,,,,Nov'2017 cash flow - Taxes on Local Revenues -INSS,,Postage and Delivery,,2234.07,,,,23525.9
+,,,Total INSS-Taxes on payroll,,,,,,,,,,,,,,,,,2234.07,,0.0,,23525.9
+,,,IRRF,,,,,,,,,,,,,,,,,,,,,2575.64
+,,,,,,General Journal,,2017-11-30,,JE1711-1,,Ö,,,,Nov'2017 cash flow - Taxes on Local Revenues -IRRF,,Postage and Delivery,,513.82,,,,3089.46
+,,,Total IRRF,,,,,,,,,,,,,,,,,513.82,,0.0,,3089.46
+,,,Payroll Tax Expenses - Other,,,,,,,,,,,,,,,,,,,,,0.0
+,,,Total Payroll Tax Expenses - Other,,,,,,,,,,,,,,,,,,,,,0.0
+,,Total Payroll Tax Expenses,,,,,,,,,,,,,,,,,,3127.38,,0.0,,30811.32
+,,Trinet Service Fee,,,,,,,,,,,,,,,,,,,,,,0.0
+,,Total Trinet Service Fee,,,,,,,,,,,,,,,,,,,,,,0.0
+,,Workers Compensation,,,,,,,,,,,,,,,,,,,,,,0.0
+,,Total Workers Compensation,,,,,,,,,,,,,,,,,,,,,,0.0
+,,Payroll - Other,,,,,,,,,,,,,,,,,,,,,,0.0
+,,Total Payroll - Other,,,,,,,,,,,,,,,,,,,,,,0.0
+,Total Payroll,,,,,,,,,,,,,,,,,,,38022.13,,0.0,,220303.67
+,Payroll Expenses,,,,,,,,,,,,,,,,,,,,,,,168134.97
+,Total Payroll Expenses,,,,,,,,,,,,,,,,,,,,,,,168134.97
+,Postage and Delivery,,,,,,,,,,,,,,,,,,,,,,,246.71
+,,,,,,General Journal,,2017-11-30,,JE1711-1,,Ö,,,,Nov'2017 cash flow,,-SPLIT-,,125.6,,,,372.31
+,Total Postage and Delivery,,,,,,,,,,,,,,,,,,,125.6,,0.0,,372.31
+,Prepaid Commission Expense,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Total Prepaid Commission Expense,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Printing and Reproduction,,,,,,,,,,,,,,,,,,,,,,,1495.0
+,Total Printing and Reproduction,,,,,,,,,,,,,,,,,,,,,,,1495.0
+,Printing and stationery,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Total Printing and stationery,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Processing Fee,,,,,,,,,,,,,,,,,,,,,,,27780.95
+,,,,,,General Journal,,2017-11-30,,JE1711-1,,Ö,,,,-MULTIPLE-,,Postage and Delivery,,5502.82,,,,33283.77
+,Total Processing Fee,,,,,,,,,,,,,,,,,,,5502.82,,0.0,,33283.77
+,Professional Fees,,,,,,,,,,,,,,,,,,,,,,,116716.99
+,,Accounting,,,,,,,,,,,,,,,,,,,,,,37405.41
+,,,,,,General Journal,,2017-11-30,,JE1711-1,,Ö,,,,Nov'2017 cash flow,,Postage and Delivery,,3811.98,,,,41217.39
+,,Total Accounting,,,,,,,,,,,,,,,,,,3811.98,,0.0,,41217.39
+,,Antifraud Company,,,,,,,,,,,,,,,,,,,,,,32510.89
+,,,,,,General Journal,,2017-11-30,,JE1711-1,,Ö,,,,Nov'2017 cash flow,,Postage and Delivery,,500.0,,,,33010.89
+,,Total Antifraud Company,,,,,,,,,,,,,,,,,,500.0,,0.0,,33010.89
+,,Customer Support Agent,,,,,,,,,,,,,,,,,,,,,,10281.4
+,,,,,,General Journal,,2017-11-30,,JE1711-1,,Ö,,,,Nov'2017 cash flow,,Postage and Delivery,,1000.0,,,,11281.4
+,,Total Customer Support Agent,,,,,,,,,,,,,,,,,,1000.0,,0.0,,11281.4
+,,Design,,,,,,,,,,,,,,,,,,,,,,650.0
+,,Total Design,,,,,,,,,,,,,,,,,,,,,,650.0
+,,Legal Fees,,,,,,,,,,,,,,,,,,,,,,35492.11
+,,Total Legal Fees,,,,,,,,,,,,,,,,,,,,,,35492.11
+,,Other,,,,,,,,,,,,,,,,,,,,,,377.18
+,,Total Other,,,,,,,,,,,,,,,,,,,,,,377.18
+,,Professional Fees - Other,,,,,,,,,,,,,,,,,,,,,,0.0
+,,Total Professional Fees - Other,,,,,,,,,,,,,,,,,,,,,,0.0
+,Total Professional Fees,,,,,,,,,,,,,,,,,,,5311.98,,0.0,,122028.97
+,Realised Forex Loss/ (Gain),,,,,,,,,,,,,,,,,,,,,,,3.68
+,Total Realised Forex Loss/ (Gain),,,,,,,,,,,,,,,,,,,,,,,3.68
+,Recruiting,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Total Recruiting,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Rent Expense,,,,,,,,,,,,,,,,,,,,,,,20658.66
+,,,,,,General Journal,,2017-11-30,,JE1711-1,,Ö,,,,-MULTIPLE-,,Postage and Delivery,,1819.0,,,,22477.66
+,Total Rent Expense,,,,,,,,,,,,,,,,,,,1819.0,,0.0,,22477.66
+,Repairs and Maintenance,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Total Repairs and Maintenance,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Rounding Differences,,,,,,,,,,,,,,,,,,,,,,,-2.98
+,,,,,,Bill,,2017-11-30,,5832,,,,Dummy Offset,,,,Accounts Payable,,0.0,,,,-2.98
+,Total Rounding Differences,,,,,,,,,,,,,,,,,,,0.0,,0.0,,-2.98
+,Supplies and Materials,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Total Supplies and Materials,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Taxes and Licenses,,,,,,,,,,,,,,,,,,,,,,,0.0
+,,Biz Registration,,,,,,,,,,,,,,,,,,,,,,0.0
+,,Total Biz Registration,,,,,,,,,,,,,,,,,,,,,,0.0
+,,Franchise Fee,,,,,,,,,,,,,,,,,,,,,,0.0
+,,Total Franchise Fee,,,,,,,,,,,,,,,,,,,,,,0.0
+,,Taxes and Licenses - Other,,,,,,,,,,,,,,,,,,,,,,0.0
+,,Total Taxes and Licenses - Other,,,,,,,,,,,,,,,,,,,,,,0.0
+,Total Taxes and Licenses,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Taxes International Currency IO,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Total Taxes International Currency IO,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Telephone Expense,,,,,,,,,,,,,,,,,,,,,,,3704.33
+,,,,,,General Journal,,2017-11-30,,JE1711-1,,Ö,,,,Nov'2017 cash flow,,Postage and Delivery,,834.9,,,,4539.23
+,Total Telephone Expense,,,,,,,,,,,,,,,,,,,834.9,,0.0,,4539.23
+,Travel Expense,,,,,,,,,,,,,,,,,,,,,,,43.91
+,,Airfare,,,,,,,,,,,,,,,,,,,,,,0.0
+,,Total Airfare,,,,,,,,,,,,,,,,,,,,,,0.0
+,,Ground Transportation,,,,,,,,,,,,,,,,,,,,,,0.0
+,,Total Ground Transportation,,,,,,,,,,,,,,,,,,,,,,0.0
+,,Lodging,,,,,,,,,,,,,,,,,,,,,,0.0
+,,Total Lodging,,,,,,,,,,,,,,,,,,,,,,0.0
+,,Meals and Entertainment,,,,,,,,,,,,,,,,,,,,,,0.0
+,,Total Meals and Entertainment,,,,,,,,,,,,,,,,,,,,,,0.0
+,,Mileage,,,,,,,,,,,,,,,,,,,,,,43.91
+,,Total Mileage,,,,,,,,,,,,,,,,,,,,,,43.91
+,,Travel Expense - Other,,,,,,,,,,,,,,,,,,,,,,0.0
+,,Total Travel Expense - Other,,,,,,,,,,,,,,,,,,,,,,0.0
+,Total Travel Expense,,,,,,,,,,,,,,,,,,,,,,,43.91
+,Uncategorized Expenses,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Total Uncategorized Expenses,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Unknown Expenses,,,,,,,,,,,,,,,,,,,,,,,0.0
+,,,,,,General Journal,,2017-11-30,,JE1711-3,,Ö,,Blackhawk Brazil -Crossfire,,Being reversal of account,,Accounts Receivable,,,,488.32,,-488.32
+,,,,,,General Journal,,2017-11-30,,JE1711-4,,Ö,,Blackhawk Brazil -Steam,,Being reversal of account,,Accounts Receivable,,,,64883.0,,-65371.32
+,,,,,,General Journal,,2017-11-30,,JE1711-5,,Ö,,Blackhawk Brazil,,Being reversal of account,,Accounts Receivable,,488.32,,,,-64883.0
+,,,,,,General Journal,,2017-11-30,,JE1711-6,,Ö,,Blackhawk Brazil,,Being reversal of account,,Accounts Receivable,,64883.0,,,,0.0
+,Total Unknown Expenses,,,,,,,,,,,,,,,,,,,65371.32,,65371.32,,0.0
+,Unrealized Exchange Gain / Loss,,,,,,,,,,,,,,,,,,,,,,,1186.91
+,,,,,,General Journal,,2017-11-30,,JE1711-33,,Ö,,,,Reversal of unrealised forex loss in Oct'2017,,Loan from Rixty USA,,,,44099.35,,-42912.44
+,,,,,,General Journal,,2017-11-30,,JE1711-34,,Ö,,,,Unrealised forex loss in Nov'2017,,Loan from Rixty USA,,42698.76,,,,-213.68
+,Total Unrealized Exchange Gain / Loss,,,,,,,,,,,,,,,,,,,42698.76,,44099.35,,-213.68
+,Utilities,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Total Utilities,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Interest Income,,,,,,,,,,,,,,,,,,,,,,,-165670.53
+,,,,,,General Journal,,2017-11-30,,JE1711-7,,Ö,,,,Being bank interest for Nov'2017,,Santander Investment Account,,,,2983.04,,-168653.57
+,Total Interest Income,,,,,,,,,,,,,,,,,,,0.0,,2983.04,,-168653.57
+,Other Income,,,,,,,,,,,,,,,,,,,,,,,-4309.99
+,Total Other Income,,,,,,,,,,,,,,,,,,,,,,,-4309.99
+,Amortization,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Total Amortization,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Blackhawk Underpayment,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Total Blackhawk Underpayment,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Exchange Gain or Loss,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Total Exchange Gain or Loss,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Facebook Discrepancy,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Total Facebook Discrepancy,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Loss on Abandonment of Fixed As,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Total Loss on Abandonment of Fixed As,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Penalty,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Total Penalty,,,,,,,,,,,,,,,,,,,,,,,0.0
+,No accnt,,,,,,,,,,,,,,,,,,,,,,,0.0
+,Total no accnt,,,,,,,,,,,,,,,,,,,,,,,0.0
+TOTAL,,,,,,,,,,,,,,,,,,,,28359819.15,,28359819.15,,0.0
