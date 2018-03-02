@@ -1,0 +1,18 @@
+{% extends "base.html" %}
+
+
+
+
+{% block content %}
+
+
+<h1>Journals</h1>
+<ul>
+{% for instance in object_list %}
+    <li>{{ instance }} - {{ instance.date }} {{ instance.amount }}</li>
+{% empty %}
+    <li>No articles yet.</li>
+{% endfor %}
+</ul>
+
+{% endblock %}

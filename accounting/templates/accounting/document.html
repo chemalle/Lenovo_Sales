@@ -1,0 +1,136 @@
+
+{% load staticfiles %}
+{% block content %}
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="keywords" content="">
+    <meta name="author" content="">
+
+
+    {# Custom CSS#}
+    <link rel="stylesheet" href="{% static 'css/blog.css' %}">
+    <link href='https://fonts.googleapis.com/css?family=Lora:400,400italic|Work+Sans:300,400,500,600' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="{% static 'css/toolkit-startup.css' %}">
+    <link rel="stylesheet" href="{% static 'css/application-startup.css' %}">
+    <link href="assets/css/toolkit-startup.css" rel="stylesheet">
+    <link href="assets/css/application-startup.css" rel="stylesheet">
+
+
+    <link href='https://fonts.googleapis.com/css?family=Lora:400,400italic|Work+Sans:300,400,500,600' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" href="{% static 'css/toolkit-startup.css' %}">
+  <link rel="stylesheet" href="{% static 'css/application-startup.css' %}">
+
+
+
+
+<style>
+  /* note: this is a hack for ios iframe for bootstrap themes shopify page */
+  /* this chunk of css is not part of the toolkit :) */
+  /* …curses ios, etc… */
+  @media (max-width: 768px) and (-webkit-min-device-pixel-ratio: 2) {
+    body {
+      width: 1px;
+      min-width: 100%;
+      *width: 100%;
+    }
+    #stage {
+      height: 1px;
+      overflow: auto;
+      min-height: 100vh;
+      -webkit-overflow-scrolling: touch;
+    }
+  }
+</style>
+</head>
+
+
+<body>
+
+
+
+
+<div class="stage-shelf stage-shelf-right hidden" id="sidebar">
+<ul class="nav nav-bordered nav-stacked flex-column">
+<li class="nav-header">Examples</li>
+<li class="nav-item">
+  <a class="nav-link active" href="index.html">#econobilidade</a>
+</li>
+<li class="nav-item">
+  <a class="nav-link" href="#">Download</a>
+</li>
+<li class="nav-item">
+  <a class="nav-link" href="bold/index.html">Bold</a>
+</li>
+<li class="nav-divider"></li>
+<li class="nav-header">Docs</li>
+<li class="nav-item">
+  <a class="nav-link" href="docs/index.html">Toolkit</a>
+</li>
+<li class="nav-item">
+  <a class="nav-link" href="http://getbootstrap.com">Bootstrap</a>
+</li>
+</ul>
+</div>
+
+<div class="stage" id="stage">
+
+  <div class="block block-inverse block-fill-height app-header"
+       style="background-image: url(assets/img/startup-1.jpg);">
+
+    <div class="container py-4 fixed-top app-navbar">
+    <nav class="navbar navbar-transparent navbar-padded navbar-expand-md">
+      <a class="navbar-brand mr-auto" href="https://econobilidade.com">
+        <strong style="background: #fff; padding: 12px; border-radius: 4px; color: #28669F;">Conheca nossa tecnologia</strong>
+      </a>
+      <button
+        class="navbar-toggler"
+        type="button"
+        data-target="#stage"
+        data-toggle="stage"
+        data-distance="-250">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+
+      <div class="d-none d-md-block text-uppercase">
+        <ul class="navbar-nav">
+          <li class="nav-item px-1 ">
+          <a class="nav-link" href="{%url 'home' %}">#econobilidade</a>
+          </li>
+          <li class="nav-item px-1 ">
+            <a class="nav-link" href="{%url 'home' %}">Prototipo</a>
+            <li class="nav-item px-1 ">
+              <a class="nav-link" href="https://basecamp.com/1781978/projects/8363521">Basecamp</a>
+          </li>
+        </ul>
+      </div>
+    </nav>
+  </div>
+
+
+<br>
+<br>
+<br>
+
+<img src="{% static "images/brooklin_bridge.JPG" %}" height="600" width="100%" alt="My image"/>
+
+<title>Sales Acceleration</title>
+
+<h1>Planejamento inicial</h1>
+
+<p>A neXT ha mais de 10 anos fornece solucoes e servicos de alto valor agregado para a Lenovo.
+
+Neste contexto iniciamos este prototipo objetivando contribuir com um processo mais simples, menos operacional e que visa
+
+a aceleracao das atividades de vendas e crescimento sustentavel da empresa!
+</p>
+
+{% endblock %}
+
+
+
+
+</html>

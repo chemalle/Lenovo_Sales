@@ -3,16 +3,29 @@ from django.contrib import admin
 # Register your models here.
 
 
-from accounting.models import  Document, Balance_Sheet
+from accounting.models import  Document, Balance_Sheet, Accounting
 
 
 
 
 admin.site.register(Document)
 admin.site.register(Balance_Sheet)
+admin.site.register(Accounting)
+#admin.site.register(Books)
+
+from import_export.admin import ImportExportModelAdmin
+from django.contrib import admin
+from .models import Person, Books
+
+@admin.register(Person)
+class PersonAdmin(ImportExportModelAdmin):
+    pass
 
 
 
+@admin.register(Books)
+class BooksAdmin(ImportExportModelAdmin):
+    pass
 #from accounting.models import Accounting
 
 
